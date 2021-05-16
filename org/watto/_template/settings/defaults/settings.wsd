@@ -1,0 +1,175 @@
+<settingsStore>
+	<program>Game Extractor</program>
+	<settings>
+		<setting code="Version" value="2.0" changable="false" />
+		<setting code="CurrentSidePanel" value="SidePanel_About" />
+		<setting code="ShowIntHexEditorField" value="true" />
+		<setting code="Popup_Search_MatchFound_Show" value="false" />
+		<setting code="DefaultSettingsFile" value="settings/defaults/Settings.wsd" />
+		<setting code="DefaultInterfaceColors" value="-12814286" />
+		<setting code="PluginPathsFile" value="settings/plugins.wsd" />
+		<setting code="Scanner_tim" value="true" />
+		<setting code="Scanner_wav" value="true" />
+		<setting code="WSGradientColorChooserXML" value="settings/gradientColorChooserDialog.wsd" />
+		<setting code="NumberOfUndoTasks" value="4" />
+		<setting code="ShowSystemSpecificIcons" value="false" />
+		<setting code="Popup_RenameFiles_NoRenameValue_Show" value="true" />
+		<setting code="ShowLanguagePackOutdatedError" value="false" />
+		<setting code="SettingsFile-Defaults" value="settings\defaults\settings.wsd" />
+		<setting code="ShowLongHexEditorField" value="true" />
+		<setting code="Popup_Search_NoSearchValue_Show" value="true" />
+		<setting code="WSFontChooser_FontSize_Selected" value="12" />
+		<setting code="CheckScriptResourceValues" value="true" />
+		<setting code="MaxNumberOfFiles4" value="100000" />
+		<setting code="MaxNumberOfFiles2" value="40000" />
+		<setting code="SelectedTreeTableType" value="3" />
+		<setting code="FileListTreeTable_DividerLocation" value="0.19796380090497737" />
+		<setting code="Popup_Options_OptionsSaved_Show" value="true" />
+		<setting code="Popup_ReadArchive_ReadWithScannerFailed_Show" value="true" />
+		<setting code="Popup_CutArchive_CutFailed_Show" value="true" />
+		<setting code="AutoResizeTableColumns" value="true" />
+		<setting code="Popup_SelectResources_Inverse_Show" value="false" />
+		<setting code="Popup_FileListViewChanged_Show" value="false" />
+		<setting code="Popup_SelectResources_None_Show" value="false" />
+		<setting code="Scanner_html" value="true" />
+		<setting code="Popup_ReadArchive_FilenameMissing_Show" value="true" />
+		<setting code="Scanner_pcx" value="true" />
+		<setting code="SelectedOptionGroup" value="0" />
+		<setting code="Popup_Search_NoMatchFound_Show" value="true" />
+		<setting code="TypesFile" value="settings/types.wsd" />
+		<setting code="DirectoryListView" value="List" />
+		<setting code="Popup_ReadArchive_MakeNewArchive_Show" value="false" />
+		<setting code="MaxFilenameLength" value="255" />
+		<setting code="Scanner_png" value="true" />
+		<setting code="SortPluginLists" value="true" />
+		<setting code="PlayAudioOnLoad" value="true" />
+		<setting code="ShowSplashScreen" value="true" />
+		<setting code="ShowBinaryHexEditorField" value="false" />
+		<setting code="TempDirectory" value="temp" />
+		<setting code="ShowTableColumn_ReplacedIcon" value="false" />
+		<setting code="Popup_ExportFiles_FilesExported_Show" value="true" />
+		<setting code="ShowTableColumn_DecompressedLengthKB" value="false" />
+		<setting code="ShowTableColumn_Offset" value="false" />
+		<setting code="Popup_CutArchive_FilesCut_Show" value="true" />
+		<setting code="Popup_ReadArchive_ReadWithPluginFailed_Show" value="true" />
+		<setting code="Popup_ScriptBuilder_ScriptSaved_Show" value="true" />
+		<setting code="ShowHexHexEditorField" value="false" />
+		<setting code="ShowTableColumn_Compressed" value="false" />
+		<setting code="SidePanel_DirectoryList_CurrentControl" value="ReadPanel" />
+		<setting code="Popup_RemoveFiles_FilesAdded_Show" value="true" />
+		<setting code="Scanner_bik" value="true" />
+		<setting code="ShowByteHexEditorField" value="true" />
+		<setting code="ShowTableColumn_DecompressedLength" value="true" />
+		<setting code="Popup_ReadArchive_ArchiveOpenedWithScanner_Show" value="true" />
+		<setting code="Popup_ReadArchive_NoPluginsFound_Show" value="true" />
+		<setting code="ShowHexIfPreviewFailed" value="true" />
+		<setting code="Scanner_mid" value="true" />
+		<setting code="Popup_SelectResources_All_Show" value="false" />
+		<setting code="ShowTableColumn_RenamedIcon" value="false" />
+		<setting code="Popup_ReadArchive_ReadWithScriptFailed_Show" value="true" />
+		<setting code="Popup_SidePanelChanged_Show" value="false" />
+		<setting code="AutoChangedToHexPreview" value="false" />
+		<setting code="ShowShortHexEditorField" value="true" />
+		<setting code="ShowTableColumn_Filename" value="false" />
+		<setting code="MaxAllowedScriptErrors" value="10" />
+		<setting code="Scanner_jpg" value="true" />
+		<setting code="Popup_ScriptBuilder_NoNameSpecified_Show" value="true" />
+		<setting code="NumberOfRecentFiles" value="4" />
+		<setting code="ShowDoubleHexEditorField" value="true" />
+		<setting code="Popup_RenameFiles_FilesRestored_Show" value="true" />
+		<setting code="AlwaysShowHexEditorSelectedTable" value="true" />
+		<setting code="LanguageDirectory" value="language" />
+		<setting code="MaximumDirectoryFileLength" value="524800" />
+		<setting code="Popup_AddFiles_NoFilesToAdd_Show" value="true" />
+		<setting code="WSTableColumn_d_Width" value="114" />
+		<setting code="WSTableColumn_c_Width" value="109" />
+		<setting code="WSTableColumn_a_Width" value="18" />
+		<setting code="Popup_RemoveFiles_NoFilesToRemove_Show" value="true" />
+		<setting code="WSTableColumn_O_Width" value="158" />
+		<setting code="Popup_AddFiles_FilesAdded_Show" value="true" />
+		<setting code="WSFontChooserXML" value="settings/fontChooserDialog.wsd" />
+		<setting code="Popup_ReplaceFiles_FilesReplaced_Show" value="true" />
+		<setting code="WSTableColumn_P_Width" value="286" />
+		<setting code="Popup_ReadArchive_FileNotAnArchive_Show" value="true" />
+		<setting code="WSTableColumn_I_Width" value="189" />
+		<setting code="WSTableColumn_E_Width" value="87" />
+		<setting code="WSMonthCalendarXML" value="settings/monthCalendarDialog.wsd" />
+		<setting code="Popup_ReplaceFiles_FilesRestored_Show" value="true" />
+		<setting code="ShowTableColumn_CompressedLength" value="true" />
+		<setting code="CurrentDirectory" value="" />
+		<setting code="DebugMode" value="false" />
+		<setting code="ToolbarLocation" value="ToolbarLocation_Top" />
+		<setting code="AboutFile" value="settings/about.wsd" />
+		<setting code="ExtendedLanguageDebug" value="false" />
+		<setting code="ShowTableColumn_CompressedLengthKB" value="false" />
+		<setting code="ShowTimestampHexEditorField" value="false" />
+		<setting code="ShowTableColumn_Compression" value="false" />
+		<setting code="Popup_Search_NoColumnsSelected_Show" value="true" />
+		<setting code="ExtendedSettingsDebug" value="false" />
+		<setting code="ShowTableColumn_Description" value="true" />
+		<setting code="SavedPreviewDirectory" value="previews" />
+		<setting code="ScriptsDirectory" value="scripts" />
+		<setting code="CurrentFileList" value="TreeTable" />
+		<setting code="Popup_ExportFiles_NoFilesSelected_Show" value="true" />
+		<setting code="WSFontChooser_FontName_Selected" value="Arial" />
+		<setting code="ShowTableColumn_AddedIcon" value="false" />
+		<setting code="Popup_AddFiles_FilesRemoved_Show" value="true" />
+		<setting code="AllowInlineFileListEditing" value="false" />
+		<setting code="DirectoryListDoubleClickDoesOpenArchive" value="true" />
+		<setting code="ShowFloatHexEditorField" value="true" />
+		<setting code="DragDropOption" value="DragDrop_Ask" />
+		<setting code="Popup_RenameFiles_FilesRenamed_Show" value="true" />
+		<setting code="Popup_RemoveFiles_FilesRemoved_Show" value="true" />
+		<setting code="ShowCharHexEditorField" value="false" />
+		<setting code="Popup_ExportFileList_NoColumnsSelected_Show" value="true" />
+		<setting code="Scanner_ogg" value="true" />
+		<setting code="AlsoCutDirectoryFiles" value="true" />
+		<setting code="Popup_RenameFiles_NoFilesSelected_Show" value="true" />
+		<setting code="WSProgramClosesSplashScreen" value="true" />
+		<setting code="PluginListDisplayType" value="Game" />
+		<setting code="WSSmallColorChooserXML" value="settings/smallColorChooserDialog.wsd" />
+		<setting code="FileListView" value="TreeTable" />
+		<setting code="Scanner_gif" value="true" />
+		<setting code="OpenArchiveOnDoubleClick" value="true" />
+		<setting code="ToolbarButtonListFile" value="settings/toolbarButtonList.wsd" />
+		<setting code="WSFontChooser_FontStyle_Selected" value="Plain" />
+		<setting code="Popup_ExportFileList_ListExported_Show" value="true" />
+		<setting code="ShowUnicodeHexEditorField" value="false" />
+		<setting code="InterfaceColors" value="-12814286" />
+		<setting code="ExtractDirectory" value="extract" />
+		<setting code="ShowTableColumn_FilePath" value="true" />
+		<setting code="ShowTableColumn_Extension" value="false" />
+		<setting code="CurrentLanguage" value="English" />
+		<setting code="FileListExporterDirectory" value="lists" />
+		<setting code="PreviewOnDoubleClick" value="true" />
+		<setting code="PreviewOnFileListEnter" value="true" />
+		<setting code="Popup_CutArchive_InvalidInputFile_Show" value="true" />
+		<setting code="Popup_WriteArchive_FilenameMissing_Show" value="true" />
+		<setting code="Popup_Preview_PreviewSaved_Show" value="true" />
+		<setting code="ShowTableColumn_Icon" value="false" />
+		<setting code="ShowTableColumn_Property" value="true" />
+		<setting code="ShowTableColumn_Value" value="true" />
+		<setting code="ShowTableColumn_Source" value="false" />
+		<setting code="ShowTableColumn_Directory" value="false" />
+		<setting code="Scanner_bmp" value="true" />
+		<setting code="ScanFileIfOpenFailed" value="true" />
+		<setting code="HexEditorFileSizeLimit" value="10000" />
+		<setting code="Scanner_dds" value="true" />
+		<setting code="Popup_WriteArchive_ArchiveSaved_Show" value="true" />
+		<setting code="DefaultInterfaceFile" value="settings/defaults/interface.wsd" />
+		<setting code="HexEditorDisplayType" value="Char" />
+		<setting code="Popup_FullVersionOnly_Show" value="true" />
+		<setting code="DividerLocation" value="0.7" />
+		<setting code="SettingsFile" value="settings\settings.wsd" />
+		<setting code="ColorScriptSyntax" value="true" />
+		<setting code="Popup_ConvertArchive_FilenameMissing_Show" value="true" />
+		<setting code="Popup_ReadArchive_ArchiveOpened_Show" value="true" />
+		<setting code="InterfaceFile" value="settings/interface.wsd" />
+		<setting code="Scanner_vag" value="true" />
+		<setting code="LargeButtonIcons" value="false" />
+		<setting code="LoadScriptsAtStartup" value="false" />
+		
+		<setting code="" value="" />
+	  </settings>
+</settingsStore>
+

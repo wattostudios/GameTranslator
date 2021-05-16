@@ -1,0 +1,116 @@
+<body>
+
+<center>
+
+<img src="images/WSCreditsPanel/aboutLogo.gif" /><br />
+
+<font color="green">Game Extractor - Extensible Game Archive Editor</font><br />
+<font color="orange">Created and Developed by WATTO Studios (c) 2002-2007<br />
+<u>http://www.watto.org/extract</u></font><br />
+
+<br /><br />
+
+<font color="white">Game Extractor is a program that opens and manipulates game archives. See the Readme file for further information and contact details, or visit the website.</font>
+
+<br /><br />
+
+<span color="red" border-width="2">
+<font color="red">Game Extractor (Full Version) is a purchasable product!<br />
+Distribution of Game Extractor (Full Version) violates the terms of the legal agreement, and holds you liable for prosecution through law!</font>
+</span>
+
+<br /><br />
+
+<img src="images/WSCreditsPanel/softpedia.gif" /><br />
+Game Extractor is free from viruses, adware, and spyware.
+
+<br /><br />
+
+<font color="blue">Game Extractor makes use of the following software packages...</font>
+
+<br />
+
+</center>
+
+<ul>
+<li>Java</li>
+<li>Java Media Framework</li>
+<li>Java Image Management Interface</li>
+<li>Java Imaging Utilities</li>
+<li>JOrbis</li>
+<li>LZSS Compression Routines for Java</li>
+<li>jRar</li>
+</ul>
+
+<center>
+
+<br />
+
+<font color="orange">WATTO Studios wishes to thank the following...</font><br /><br />
+
+<font color="blue">PLUGIN DEVELOPMENT:</font>
+
+</center>
+
+<ul>
+<li>Mike Zuurman (http://www.xentax.com)</li>
+<li>http://www.dragonunpacker.com</li>
+<li>http://www.extractor.ru</li>
+<li>http://simtech.sf.net</li>
+<li>http://www.wotsit.org</li>
+<li>Dmitri Shlykov for sending heaps of XBox archives</li>
+<li>KorNet on the Xentax Forums</li>
+<li>All the people who have sent archives to me</li>
+</ul>
+
+<br />
+
+<center>
+
+<font color="blue">TRANSLATIONS:</font>
+
+</center>
+
+<ul>
+<li>Croatian - Dalibor Zajec [VisoR]</li>
+<li>Czech - Milan</li>
+<li>French - Julien Regnier</li>
+<li>Hungarian - Piedon</li>
+<li>Persian - Sajad Faramarzi</li>
+<li>Portugues - Lucas Oliveira of Silva</li>
+<li>Slovak - Jozef Kotulak</li>
+<li>Spanish - Victor Gonzalez</li>
+<li>Russian - Serg_R</li>
+<li>Russian - Zalbard</li>
+</ul>
+
+<br />
+
+<center>
+
+<font color="blue">OTHER IMPORTANT PEOPLE:</font>
+
+</center>
+
+<ul>
+<li>All computer game developers - for making the best games in the world.</li>
+<li>All the people who purchased this product - I hope you like it!</li>
+<li>SourceForge - for hosting the program and reducing the traffic on my website.</li>
+<li>Mike Zuurman - for putting up with my use of Game Extractor on his website despite him having a rival program :) , and for helping out with archive formats in general.</li>
+<li>Tegan - I am always happy to see you, and am thankful for having known you. Even though you don't know it, you gave me much more than even I realize.</li>
+<li>Angela - For being a wonderful friendly person for the brief while we were together, and showing me the emotions of desire.</li>
+<li>Trudy - You showed me the feeling of love, and changed me into someone much better than I ever was. You taught me some very valuable lessons, both pleasant and harsh, and I thank you for the time we had together.</li>
+<li>Jewelz - Money doesn't buy happiness, and you can't force something that isn't there, no matter how much you might want it. Thanks for helping me in my times of need, you were a life saver!</li>
+<li>Sarah - For restoring my happiness, and being someone whom I thought never existed. We share something very special that can never be broken. Thank you for all that makes you so wonderful, so amazing, so beautiful, and so perfect!</li>
+<li>Everyone who helps to make my life a happy and enjoyable one - you mean so much more to me than I will ever be able to thank you for!</li>
+</ul>
+
+<br />
+
+<center>
+<img src="images/WSCreditsPanel/sourceforge.gif" /><br />
+Game Extractor (Basic Version) is hosted on SourceForge.<br />
+<u>http://sourceforge.net/projects/gameextractor</u>
+</center>
+
+</body>

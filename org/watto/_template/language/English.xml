@@ -1,0 +1,177 @@
+<languagePack>
+	<name>English</name>
+	<version>2.0</version>
+	<author>
+		<name>WATTO</name>
+		<email>watto@watto.org</email>
+		<website>http://www.watto.org/extract</website>
+	</author>
+	
+	<texts>
+	
+	
+		<!-- REQUIRED -->
+		
+		
+		<lang code="ProgramName" value="Game Extractor" />
+		<lang code="ProgramName_Free" value="Game Extractor (Basic Version)" />
+		
+		<lang code="Welcome" value="Welcome to Game Extractor!" />
+		
+		<lang code="PopupDialog_Error_Title" value="Error" />
+		<lang code="PopupDialog_Confirm_Title" value="Confirm" />
+		<lang code="PopupDialog_Message_Title" value="Message" />
+		<lang code="WSPopupDialogWrapLabel_ShowLanguagePackOutdatedError_Text" value="The language pack is out of date - please download a new one!" />
+		<lang code="PopupDialog_HidableCheckBox_Message" value="Show this message again?" />
+		
+		<lang code="WSButton_OK_Text" value="OK" />
+		<lang code="WSButton_OK_Text_Small" value="OK" />
+		<lang code="WSButton_OK_Tooltip" value="OK" />
+		<lang code="WSButton_Yes_Text" value="Yes" />
+		<lang code="WSButton_Yes_Text_Small" value="Yes" />
+		<lang code="WSButton_Yes_Tooltip" value="Yes" />
+		<lang code="WSButton_No_Text" value="No" />
+		<lang code="WSButton_No_Text_Small" value="No" />
+		<lang code="WSButton_No_Tooltip" value="No" />
+		
+		<lang code="WSSplashDialog_Plugins" value="Loading Plugins" />
+		<lang code="WSSplashDialog_ConstructInterface" value="Constructing Interface" />
+		
+		
+		<!-- WSProgressDialog -->
+		
+		
+		<lang code="WSButton_CloseProgress_Text" value="Close Popup" />
+		
+		
+		<!-- WSComboButton -->
+		
+		
+		<lang code="WSButton_WSComboButtonArrow_Text" value="" />
+		
+	
+		<!-- WSFontChooser -->
+		
+		
+		<lang code="WSCheckBox_FontAllCaps_Text" value="All Caps" />
+		<lang code="WSCheckBox_FontDoubleStrikethrough_Text" value="Double Strikethrough" />
+		<lang code="WSCheckBox_FontEmboss_Text" value="Emboss" />
+		<lang code="WSCheckBox_FontEngrave_Text" value="Engrave" />
+		<lang code="WSCheckBox_FontHidden_Text" value="Hidden" />
+		<lang code="WSCheckBox_FontOutline_Text" value="Outline" />
+		<lang code="WSCheckBox_FontShadow_Text" value="Shadow" />
+		<lang code="WSCheckBox_FontSmallCaps_Text" value="Small Caps" />
+		<lang code="WSCheckBox_FontStrikethrough_Text" value="Strikethrough" />
+		<lang code="WSCheckBox_FontSubscript_Text" value="Subscript" />
+		<lang code="WSCheckBox_FontSuperscript_Text" value="Superscript" />
+		<lang code="WSLabel_FontColorLabel_Text" value="Color" />
+		<lang code="WSLabel_FontNameLabel_Text" value="Font" />
+		<lang code="WSLabel_FontPreview_Text" value="Font Style Preview" />
+		<lang code="WSLabel_FontSizeLabel_Text" value="Size" />
+		<lang code="WSLabel_FontStyleLabel_Text" value="Style" />
+		<lang code="WSLabel_FontUnderlineColorLabel_Text" value="Underline Color" />
+		<lang code="WSLabel_FontUnderlineStyleLabel_Text" value="Underline Style" />
+		<lang code="WSFontChooser_FontStyle_Bold" value="Bold" />
+		<lang code="WSFontChooser_FontStyle_BoldItalic" value="Bold Italic" />
+		<lang code="WSFontChooser_FontStyle_Italic" value="Italic" />
+		<lang code="WSFontChooser_FontStyle_Plain" value="Regular" />
+		<lang code="WSFontChooser_FontStyle_Bold Italic" value="Bold Italic" />
+		
+		
+		<!-- WSSmallColorChooser -->
+		
+
+		<lang code="WSButton_ColorMoreColors_Text" value="More Colors..." />
+		
+		<lang code="WSColorChooser_Color_0,0,0" value="Black" />
+		<lang code="WSColorChooser_Color_128,0,0" value="Dark Red" />
+		<lang code="WSColorChooser_Color_255,0,0" value="Red" />
+		<lang code="WSColorChooser_Color_255,0,255" value="Magenta" />
+		<lang code="WSColorChooser_Color_255,153,204" value="Pink" />
+		<lang code="WSColorChooser_Color_153,51,0" value="Dark Orange" />
+		<lang code="WSColorChooser_Color_255,102,0" value="Orange" />
+		<lang code="WSColorChooser_Color_255,153,0" value="Light Orange" />
+		<lang code="WSColorChooser_Color_255,204,0" value="Peach" />
+		<lang code="WSColorChooser_Color_255,204,153" value="Apricot" />
+		<lang code="WSColorChooser_Color_51,51,0" value="Dark Olive" />
+		<lang code="WSColorChooser_Color_128,128,0" value="Olive" />
+		<lang code="WSColorChooser_Color_153,204,0" value="Light Olive" />
+		<lang code="WSColorChooser_Color_255,255,0" value="Yellow" />
+		<lang code="WSColorChooser_Color_255,255,153" value="Light Yellow" />
+		<lang code="WSColorChooser_Color_0,51,0" value="Dark Aqua" />
+		<lang code="WSColorChooser_Color_0,128,0" value="Dark Green" />
+		<lang code="WSColorChooser_Color_51,153,102" value="Aqua" />
+		<lang code="WSColorChooser_Color_0,255,0" value="Green" />
+		<lang code="WSColorChooser_Color_204,255,204" value="Light Green" />
+		<lang code="WSColorChooser_Color_0,51,102" value="Dark Ocean" />
+		<lang code="WSColorChooser_Color_0,128,128" value="Ocean" />
+		<lang code="WSColorChooser_Color_51,204,204" value="Light Ocean" />
+		<lang code="WSColorChooser_Color_0,255,255" value="Cyan" />
+		<lang code="WSColorChooser_Color_204,255,255" value="Light Cyan" />
+		<lang code="WSColorChooser_Color_0,0,128" value="Dark Blue" />
+		<lang code="WSColorChooser_Color_0,0,255" value="Blue" />
+		<lang code="WSColorChooser_Color_51,102,255" value="Light Blue" />
+		<lang code="WSColorChooser_Color_0,204,255" value="Sky" />
+		<lang code="WSColorChooser_Color_153,204,255" value="Light Sky" />
+		<lang code="WSColorChooser_Color_51,51,153" value="Violet" />
+		<lang code="WSColorChooser_Color_102,102,153" value="Light Violet" />
+		<lang code="WSColorChooser_Color_128,0,128" value="Purple" />
+		<lang code="WSColorChooser_Color_153,51,102" value="Maroon" />
+		<lang code="WSColorChooser_Color_204,153,255" value="Light Purple" />
+		<lang code="WSColorChooser_Color_51,51,51" value="Night Gray" />
+		<lang code="WSColorChooser_Color_128,128,128" value="Dark Gray" />
+		<lang code="WSColorChooser_Color_153,153,153" value="Gray" />
+		<lang code="WSColorChooser_Color_192,192,192" value="Light Gray" />
+		<lang code="WSColorChooser_Color_255,255,255" value="White" />
+		
+		<lang code="WSButton_ColorChooserClosePopup_Text" value="Change Color" />
+		<lang code="WSLabel_ColorInfoPanelName_Text" value="" />
+
+		
+		<!-- WSMonthCalendar -->
+		
+		
+		<lang code="WSButton_NextMonth_Text" value=">" />
+		<lang code="WSButton_PreviousMonth_Text" value="<" />
+		
+		<lang code="WSButton_NextYear_Text" value=">>" />
+		<lang code="WSButton_PreviousYear_Text" value="<<" />
+		
+		<lang code="WSLabel_MondayHeaderSmall_Text" value="M" />
+		<lang code="WSLabel_TuesdayHeaderSmall_Text" value="T" />
+		<lang code="WSLabel_WednesdayHeaderSmall_Text" value="W" />
+		<lang code="WSLabel_ThursdayHeaderSmall_Text" value="T" />
+		<lang code="WSLabel_FridayHeaderSmall_Text" value="F" />
+		<lang code="WSLabel_SaturdayHeaderSmall_Text" value="S" />
+		<lang code="WSLabel_SundayHeaderSmall_Text" value="S" />
+		
+		<lang code="MonthJanuary" value="January" />
+		<lang code="MonthFebruary" value="February" />
+		<lang code="MonthMarch" value="March" />
+		<lang code="MonthApril" value="April" />
+		<lang code="MonthMay" value="May" />
+		<lang code="MonthJune" value="June" />
+		<lang code="MonthJuly" value="July" />
+		<lang code="MonthAugust" value="August" />
+		<lang code="MonthSeptember" value="September" />
+		<lang code="MonthOctober" value="October" />
+		<lang code="MonthNovember" value="November" />
+		<lang code="MonthDecember" value="December" />
+		
+		
+		<!-- WSGradientColorChooser -->
+		
+		
+		<lang code="WSTextField_GradientColorChooserBlueValue_Label" value="Blue" />
+		<lang code="WSTextField_GradientColorChooserGreenValue_Label" value="Green" />
+		<lang code="WSTextField_GradientColorChooserRedValue_Label" value="Red" />
+		<lang code="WSTextField_GradientColorChooserHexValue_Label" value="Hex" />
+		
+		
+		<!-- CUSTOM -->
+		
+		<lang code="" value="" />
+		
+	</texts>
+	
+</languagePack>
