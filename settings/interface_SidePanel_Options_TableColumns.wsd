@@ -1,0 +1,14 @@
+<WSPanel code="SidePanel_Options_TableColumns_Main" layout="BorderLayout">
+	
+	<WSScrollPane showLabel="true" code="SidePanel_Options_TableColumns_Label" position="CENTER" repository="false">
+		<WSPanel>
+			<WSPanel layout="GridLayout" position="NORTH" rows="4" columns="1" code="SidePanel_Options_TableColumns_Checkboxes">
+				<WSOptionCheckBox code="Option_TableColumn_Original" setting="ShowTableColumn_Original" />
+				<WSOptionCheckBox code="Option_TableColumn_Translated" setting="ShowTableColumn_Translated" />
+				<WSOptionCheckBox code="Option_TableColumn_AddedIcon" setting="ShowTableColumn_AddedIcon" />
+				<WSOptionCheckBox code="Option_TableColumn_RenamedIcon" setting="ShowTableColumn_RenamedIcon" />
+			</WSPanel>
+		</WSPanel>
+	</WSScrollPane>
+	
+</WSPanel>

@@ -1,0 +1,12 @@
+<WSPanel code="SidePanel_Options_Directories_Main" layout="BorderLayout">
+	
+	<WSScrollPane showLabel="true" code="SidePanel_Options_Directories_Label" position="CENTER" repository="true" horizontal-scrollbar="false">
+		<WSPanel>
+			<WSPanel layout="GridLayout" position="NORTH" rows="2" columns="1" vertical-gap="6">
+				<WSOptionFileChooser code="Option_General_LanguageDirectory" setting="LanguageDirectory" />
+				<WSOptionFileChooser code="Option_General_TempDirectory" setting="TempDirectory" />
+			</WSPanel>
+		</WSPanel>
+	</WSScrollPane>
+	
+</WSPanel>

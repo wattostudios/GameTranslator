@@ -1,0 +1,93 @@
+<settingsStore>
+	<program>Game Translator</program>
+	<settings>
+		<setting code="Version" value="2.0" changable="false" />
+		<setting code="WSGradientColorChooserXML" value="settings/gradientColorChooserDialog.wsd" />
+		<setting code="DirectoryListDoubleClickDoesOpenArchive" value="true" />
+		<setting code="Popup_ReadArchive_ArchiveOpened_Show" value="true" />
+		<setting code="ShowTableColumn_Translated" value="true" />
+		<setting code="ShowTableColumn_Original" value="true" />
+		<setting code="InterfaceColors" value="-12814286" />
+		<setting code="WSTableColumn_a_Width" value="18" />
+		<setting code="NumberOfUndoTasks" value="4" />
+		<setting code="Popup_Options_OptionsSaved_Show" value="true" />
+		<setting code="ExtendedLanguageDebug" value="false" />
+		<setting code="ShowTableColumn_AddedIcon" value="true" />
+		<setting code="SelectedOptionGroup" value="6" />
+		<setting code="CurrentDirectory" value="" />
+		<setting code="WSFontChooser_FontSize_Selected" value="12" />
+		<setting code="WSFontChooser_FontName_Selected" value="Arial" />
+		<setting code="CurrentLanguage" value="English" />
+		<setting code="Popup_ReadArchive_ReadWithPluginFailed_Show" value="true" />
+		<setting code="ShowLanguagePackOutdatedError" value="false" />
+		<setting code="Popup_ReadArchive_FilenameMissing_Show" value="true" />
+		<setting code="Popup_AddFiles_FilesAdded_Show" value="true" />
+		<setting code="NumberOfRecentFiles" value="4" />
+		<setting code="WSProgramClosesSplashScreen" value="true" />
+		<setting code="WSTableColumn_r_Width" value="18" />
+		<setting code="SortPluginLists" value="true" />
+		<setting code="Popup_WriteArchive_ArchiveSaved_Show" value="true" />
+		<setting code="Popup_RemoveFiles_FilesRemoved_Show" value="true" />
+		<setting code="ShowTableColumn_RenamedIcon" value="true" />
+		<setting code="CurrentSidePanel" value="SidePanel_About" />
+		<setting code="WSTableColumn_I_Width" value="92" />
+		<setting code="DividerLocation" value="0.7" />
+		<setting code="Popup_SidePanelChanged_Show" value="true" />
+		<setting code="ShowTableColumn_Attribute" value="true" />
+		<setting code="Popup_Search_MatchFound_Show" value="true" />
+		<setting code="CurrentArchive" value="" />
+		<setting code="WSFontChooser_FontStyle_Selected" value="Plain" />
+		<setting code="PluginListDisplayType" value="Game" />
+		<setting code="Popup_ReadArchive_NoPluginsFound_Show" value="true" />
+		<setting code="SidePanel_DirectoryList_CurrentControl" value="ReadPanel" />
+		<setting code="WSTableColumn_A_Width" value="75" />
+		<setting code="Popup_RemoveFiles_FilesAdded_Show" value="true" />
+		<setting code="WSSmallColorChooserXML" value="settings/smallColorChooserDialog.wsd" />
+		<setting code="ShowSystemSpecificIcons" value="true" />
+		<setting code="SettingsFile" value="settings\settings.wsd" />
+		<setting code="AboutFile" value="settings/about.wsd" />
+		<setting code="MaxNumberOfFiles4" value="100000" />
+		<setting code="MaxNumberOfFiles2" value="40000" />
+		<setting code="WSMonthCalendarXML" value="settings/monthCalendarDialog.wsd" />
+		<setting code="PluginPathsFile" value="settings/plugins.wsd" />
+		<setting code="MaxFilenameLength" value="255" />
+		<setting code="DebugMode" value="false" />
+		<setting code="WSTableColumn_O_Width" value="417" />
+		<setting code="CurrentFileList" value="Table" />
+		<setting code="ShowSplashScreen" value="true" />
+		<setting code="Popup_SelectResources_None_Show" value="true" />
+		<setting code="Popup_AddFiles_NegativeNumberOfFiles_Show" value="true" />
+		<setting code="DirectoryListView" value="List" />
+		<setting code="Popup_SelectResources_Inverse_Show" value="true" />
+		<setting code="SettingsFile-Defaults" value="settings\defaults\settings.wsd" />
+		<setting code="LanguageDirectory" value="language" />
+		<setting code="WSTableColumn_c_Width" value="84" />
+		<setting code="WSFontChooserXML" value="settings/fontChooserDialog.wsd" />
+		<setting code="Popup_RemoveFiles_NoFilesToRemove_Show" value="true" />
+		<setting code="Popup_Search_NoColumnsSelected_Show" value="true" />
+		<setting code="Popup_Search_NoMatchFound_Show" value="true" />
+		<setting code="Popup_AddFiles_FilesRemoved_Show" value="true" />
+		<setting code="Popup_ReadArchive_MakeNewArchive_Show" value="false" />
+		<setting code="WSTableColumn_T_Width" value="423" />
+		<setting code="ToolbarButtonListFile" value="settings/toolbarButtonList.wsd" />
+		<setting code="LargeButtonIcons" value="false" />
+		<setting code="Popup_WriteArchive_FilenameMissing_Show" value="true" />
+		<setting code="Popup_FullVersionOnly_Show" value="true" />
+		<setting code="ShowTableColumn_ID" value="true" />
+		<setting code="DefaultSettingsFile" value="settings/defaults/Settings.wsd" />
+		<setting code="DefaultInterfaceFile" value="settings/defaults/interface.wsd" />
+		<setting code="Popup_ConvertArchive_FilenameMissing_Show" value="true" />
+		<setting code="OpenArchiveOnDoubleClick" value="true" />
+		<setting code="DefaultInterfaceColors" value="-12814286" />
+		<setting code="Popup_Search_NoSearchValue_Show" value="true" />
+		<setting code="Popup_ReadArchive_FileNotAnArchive_Show" value="true" />
+		<setting code="AutoResizeTableColumns" value="true" />
+		<setting code="Popup_SelectResources_All_Show" value="true" />
+		<setting code="InterfaceFile" value="settings/interface.wsd" />
+		<setting code="TempDirectory" value="temp" />
+		<setting code="AddTextChangesIntoUndo" value="true" />
+		<setting code="" value="" />
+		<setting code="ExtendedSettingsDebug" value="false" />
+	</settings>
+</settingsStore>
+

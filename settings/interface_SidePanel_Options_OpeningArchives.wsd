@@ -1,0 +1,17 @@
+<WSPanel code="SidePanel_Options_OpeningArchives_Main" layout="BorderLayout">
+	
+	<WSScrollPane showLabel="true" code="SidePanel_Options_OpeningArchives_Label" position="CENTER" repository="false">
+		<WSPanel>
+			<WSPanel position="NORTH">
+				<WSPanel layout="GridLayout" position="NORTH" rows="2" columns="1" vertical-gap="6">
+					<WSOptionTextField code="Option_OpeningArchives_MaxNumberOfFiles2" setting="MaxNumberOfFiles2" />
+					<WSOptionTextField code="Option_OpeningArchives_MaxNumberOfFiles4" setting="MaxNumberOfFiles4" />
+				</WSPanel>
+				<WSPanel layout="GridLayout" position="CENTER" rows="1" columns="1">
+					<WSOptionCheckBox code="Option_OpeningArchives_OpenArchiveOnDoubleClick" setting="OpenArchiveOnDoubleClick" />
+				</WSPanel>
+			</WSPanel>
+		</WSPanel>
+	</WSScrollPane>
+	
+</WSPanel>

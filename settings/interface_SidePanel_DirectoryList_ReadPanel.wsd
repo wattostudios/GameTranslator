@@ -1,0 +1,6 @@
+<WSPanel code="SidePanel_DirectoryList_ReadPanel_Main" showLabel="true" showBorder="true" layout="BorderLayout">
+	
+	<WSComboBox code="SidePanel_DirectoryList_ReadPluginList" position="CENTER" opaque="false" />
+	<WSButton code="SidePanel_DirectoryList_ReadArchiveButton" showText="false" position="EAST" />
+	
+</WSPanel>

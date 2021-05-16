@@ -1,0 +1,16 @@
+<WSPanel code="SidePanel_Search" layout="BorderLayout">
+	
+	<WSPanel layout="BorderLayout" position="NORTH">
+	
+		<WSTextField code="SidePanel_Search_InputText" showLabel="true" position="NORTH" />
+		
+		<WSPanel showLabel="true" code="SidePanel_Search_ColumnsHolder" position="CENTER" />
+	
+		<WSPanel layout="GridLayout" rows="1" columns="2" position="SOUTH">
+			<WSButton code="SidePanel_Search_FindNextButton" />
+			<WSButton code="SidePanel_Search_SelectAllButton" />
+		</WSPanel>
+		
+	</WSPanel>
+	
+</WSPanel>

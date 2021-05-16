@@ -1,0 +1,6 @@
+<WSPanel code="SidePanel_DirectoryList_WritePanel_Main" showLabel="true" showBorder="true" layout="BorderLayout">
+	
+	<WSTextField code="SidePanel_DirectoryList_WriteFilenameField" showLabel="true" position="CENTER" opaque="false" />
+	<WSButton code="SidePanel_DirectoryList_WriteArchiveButton" showText="false" position="EAST" />
+	
+</WSPanel>

@@ -1,0 +1,17 @@
+<WSPanel code="SidePanel_DirectoryList" layout="BorderLayout">
+	
+	<WSDirectoryListHolder code="SidePanel_DirectoryList_DirectoryListHolder" layout="BorderLayout" position="CENTER" />
+	
+	<WSPanel code="SidePanel_DirectoryList_ControlsPanel" layout="BorderLayout" position="SOUTH" >
+	
+		<WSPanel code="SidePanel_DirectoryList_ControlsHolder" position="CENTER" />
+	
+		<WSPanel code="SidePanel_DirectoryList_ButtonsPanel" layout="GridLayout" rows="1" columns="4" position="SOUTH" >
+			<WSButton code="SidePanel_DirectoryList_ReadPanelButton" showText="false" />
+			<WSButton code="SidePanel_DirectoryList_ModifyPanelButton" showText="false" />
+			<WSButton code="SidePanel_DirectoryList_ConvertPanelButton" showText="false" />
+			<WSButton code="SidePanel_DirectoryList_WritePanelButton" showText="false" />
+		</WSPanel>
+	</WSPanel>
+	
+</WSPanel>

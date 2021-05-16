@@ -1,0 +1,19 @@
+<WSPanel code="SidePanel_Options_General_Main" layout="BorderLayout">
+	
+	<WSScrollPane showLabel="true" code="SidePanel_Options_General_Label" position="CENTER" repository="false">
+		<WSPanel>
+			<WSPanel position="NORTH">
+				<WSPanel layout="GridLayout" position="NORTH" rows="2" columns="1" vertical-gap="6">
+					<WSOptionTextField code="Option_General_NumberOfRecentFiles" setting="NumberOfRecentFiles" />
+					<WSOptionTextField code="Option_General_NumberOfUndoTasks" setting="NumberOfUndoTasks" />
+				</WSPanel>
+				<WSPanel layout="GridLayout" position="SOUTH" rows="3" columns="1">
+					<WSOptionCheckBox code="Option_General_AutoResizeTableColumns" setting="AutoResizeTableColumns" />
+					<WSOptionCheckBox code="Option_General_AddTextChangesIntoUndo" setting="AddTextChangesIntoUndo" />
+					<WSOptionCheckBox code="Option_General_DebugMode" setting="DebugMode" />
+				</WSPanel>
+			</WSPanel>
+		</WSPanel>
+	</WSScrollPane>
+	
+</WSPanel>

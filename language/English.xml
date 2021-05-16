@@ -1,0 +1,579 @@
+<languagePack>
+	<name>English</name>
+	<version>2.01</version>
+	<author>
+		<name>WATTO</name>
+		<email>watto@watto.org</email>
+		<website>http://www.watto.org/trans</website>
+	</author>
+	
+	<texts>
+	
+	
+		<!-- REQUIRED -->
+		
+		
+		<lang code="ProgramName" value="Game Translator" />
+		<lang code="ProgramName_Free" value="Game Translator (Basic Version)" />
+		
+		<lang code="Welcome" value="Welcome to Game Translator!" />
+		
+		<lang code="PopupDialog_Error_Title" value="Error" />
+		<lang code="PopupDialog_Confirm_Title" value="Confirm" />
+		<lang code="PopupDialog_Message_Title" value="Message" />
+		<lang code="WSPopupDialogWrapLabel_ShowLanguagePackOutdatedError_Text" value="The language pack is out of date - please download a new one!" />
+		<lang code="PopupDialog_HidableCheckBox_Message" value="Show this message again?" />
+		
+		<lang code="WSButton_OK_Text" value="OK" />
+		<lang code="WSButton_OK_Text_Small" value="OK" />
+		<lang code="WSButton_OK_Tooltip" value="OK" />
+		<lang code="WSButton_Yes_Text" value="Yes" />
+		<lang code="WSButton_Yes_Text_Small" value="Yes" />
+		<lang code="WSButton_Yes_Tooltip" value="Yes" />
+		<lang code="WSButton_No_Text" value="No" />
+		<lang code="WSButton_No_Text_Small" value="No" />
+		<lang code="WSButton_No_Tooltip" value="No" />
+		
+		<lang code="WSSplashDialog_Plugins" value="Loading Plugins" />
+		<lang code="WSSplashDialog_ConstructInterface" value="Constructing Interface" />
+		
+		
+		<!-- WSProgressDialog -->
+		
+		
+		<lang code="WSButton_CloseProgress_Text" value="Close Popup" />
+
+
+		<!-- WSComboButton -->
+		
+		
+		<lang code="WSButton_WSComboButtonArrow_Text" value="" />
+		
+	
+		<!-- WSFontChooser -->
+		
+		
+		<lang code="WSCheckBox_FontAllCaps_Text" value="All Caps" />
+		<lang code="WSCheckBox_FontDoubleStrikethrough_Text" value="Double Strikethrough" />
+		<lang code="WSCheckBox_FontEmboss_Text" value="Emboss" />
+		<lang code="WSCheckBox_FontEngrave_Text" value="Engrave" />
+		<lang code="WSCheckBox_FontHidden_Text" value="Hidden" />
+		<lang code="WSCheckBox_FontOutline_Text" value="Outline" />
+		<lang code="WSCheckBox_FontShadow_Text" value="Shadow" />
+		<lang code="WSCheckBox_FontSmallCaps_Text" value="Small Caps" />
+		<lang code="WSCheckBox_FontStrikethrough_Text" value="Strikethrough" />
+		<lang code="WSCheckBox_FontSubscript_Text" value="Subscript" />
+		<lang code="WSCheckBox_FontSuperscript_Text" value="Superscript" />
+		<lang code="WSLabel_FontColorLabel_Text" value="Color" />
+		<lang code="WSLabel_FontNameLabel_Text" value="Font" />
+		<lang code="WSLabel_FontPreview_Text" value="Font Style Preview" />
+		<lang code="WSLabel_FontSizeLabel_Text" value="Size" />
+		<lang code="WSLabel_FontStyleLabel_Text" value="Style" />
+		<lang code="WSLabel_FontUnderlineColorLabel_Text" value="Underline Color" />
+		<lang code="WSLabel_FontUnderlineStyleLabel_Text" value="Underline Style" />
+		<lang code="WSFontChooser_FontStyle_Bold" value="Bold" />
+		<lang code="WSFontChooser_FontStyle_BoldItalic" value="Bold Italic" />
+		<lang code="WSFontChooser_FontStyle_Italic" value="Italic" />
+		<lang code="WSFontChooser_FontStyle_Plain" value="Regular" />
+		<lang code="WSFontChooser_FontStyle_Bold Italic" value="Bold Italic" />
+		
+		
+		<!-- WSSmallColorChooser -->
+		
+
+		<lang code="WSButton_ColorMoreColors_Text" value="More Colors..." />
+		
+		<lang code="WSColorChooser_Color_0,0,0" value="Black" />
+		<lang code="WSColorChooser_Color_128,0,0" value="Dark Red" />
+		<lang code="WSColorChooser_Color_255,0,0" value="Red" />
+		<lang code="WSColorChooser_Color_255,0,255" value="Magenta" />
+		<lang code="WSColorChooser_Color_255,153,204" value="Pink" />
+		<lang code="WSColorChooser_Color_153,51,0" value="Dark Orange" />
+		<lang code="WSColorChooser_Color_255,102,0" value="Orange" />
+		<lang code="WSColorChooser_Color_255,153,0" value="Light Orange" />
+		<lang code="WSColorChooser_Color_255,204,0" value="Peach" />
+		<lang code="WSColorChooser_Color_255,204,153" value="Apricot" />
+		<lang code="WSColorChooser_Color_51,51,0" value="Dark Olive" />
+		<lang code="WSColorChooser_Color_128,128,0" value="Olive" />
+		<lang code="WSColorChooser_Color_153,204,0" value="Light Olive" />
+		<lang code="WSColorChooser_Color_255,255,0" value="Yellow" />
+		<lang code="WSColorChooser_Color_255,255,153" value="Light Yellow" />
+		<lang code="WSColorChooser_Color_0,51,0" value="Dark Aqua" />
+		<lang code="WSColorChooser_Color_0,128,0" value="Dark Green" />
+		<lang code="WSColorChooser_Color_51,153,102" value="Aqua" />
+		<lang code="WSColorChooser_Color_0,255,0" value="Green" />
+		<lang code="WSColorChooser_Color_204,255,204" value="Light Green" />
+		<lang code="WSColorChooser_Color_0,51,102" value="Dark Ocean" />
+		<lang code="WSColorChooser_Color_0,128,128" value="Ocean" />
+		<lang code="WSColorChooser_Color_51,204,204" value="Light Ocean" />
+		<lang code="WSColorChooser_Color_0,255,255" value="Cyan" />
+		<lang code="WSColorChooser_Color_204,255,255" value="Light Cyan" />
+		<lang code="WSColorChooser_Color_0,0,128" value="Dark Blue" />
+		<lang code="WSColorChooser_Color_0,0,255" value="Blue" />
+		<lang code="WSColorChooser_Color_51,102,255" value="Light Blue" />
+		<lang code="WSColorChooser_Color_0,204,255" value="Sky" />
+		<lang code="WSColorChooser_Color_153,204,255" value="Light Sky" />
+		<lang code="WSColorChooser_Color_51,51,153" value="Violet" />
+		<lang code="WSColorChooser_Color_102,102,153" value="Light Violet" />
+		<lang code="WSColorChooser_Color_128,0,128" value="Purple" />
+		<lang code="WSColorChooser_Color_153,51,102" value="Maroon" />
+		<lang code="WSColorChooser_Color_204,153,255" value="Light Purple" />
+		<lang code="WSColorChooser_Color_51,51,51" value="Night Gray" />
+		<lang code="WSColorChooser_Color_128,128,128" value="Dark Gray" />
+		<lang code="WSColorChooser_Color_153,153,153" value="Gray" />
+		<lang code="WSColorChooser_Color_192,192,192" value="Light Gray" />
+		<lang code="WSColorChooser_Color_255,255,255" value="White" />
+		
+		<lang code="WSButton_ColorChooserClosePopup_Text" value="Change Color" />
+		<lang code="WSLabel_ColorInfoPanelName_Text" value="" />
+
+		
+		<!-- WSMonthCalendar -->
+		
+		
+		<lang code="WSButton_NextMonth_Text" value=">" />
+		<lang code="WSButton_PreviousMonth_Text" value="<" />
+		
+		<lang code="WSButton_NextYear_Text" value=">>" />
+		<lang code="WSButton_PreviousYear_Text" value="<<" />
+		
+		<lang code="WSLabel_MondayHeaderSmall_Text" value="M" />
+		<lang code="WSLabel_TuesdayHeaderSmall_Text" value="T" />
+		<lang code="WSLabel_WednesdayHeaderSmall_Text" value="W" />
+		<lang code="WSLabel_ThursdayHeaderSmall_Text" value="T" />
+		<lang code="WSLabel_FridayHeaderSmall_Text" value="F" />
+		<lang code="WSLabel_SaturdayHeaderSmall_Text" value="S" />
+		<lang code="WSLabel_SundayHeaderSmall_Text" value="S" />
+		
+		<lang code="MonthJanuary" value="January" />
+		<lang code="MonthFebruary" value="February" />
+		<lang code="MonthMarch" value="March" />
+		<lang code="MonthApril" value="April" />
+		<lang code="MonthMay" value="May" />
+		<lang code="MonthJune" value="June" />
+		<lang code="MonthJuly" value="July" />
+		<lang code="MonthAugust" value="August" />
+		<lang code="MonthSeptember" value="September" />
+		<lang code="MonthOctober" value="October" />
+		<lang code="MonthNovember" value="November" />
+		<lang code="MonthDecember" value="December" />
+		
+		
+		<!-- WSGradientColorChooser -->
+		
+		
+		<lang code="WSTextField_GradientColorChooserBlueValue_Label" value="Blue" />
+		<lang code="WSTextField_GradientColorChooserGreenValue_Label" value="Green" />
+		<lang code="WSTextField_GradientColorChooserRedValue_Label" value="Red" />
+		<lang code="WSTextField_GradientColorChooserHexValue_Label" value="Hex" />
+		
+		
+		<!-- CUSTOM -->
+		
+		<lang code="" value="" />
+		
+		<lang code="AllFiles" value="All Files" />
+		<lang code="Description_ASCII" value="ASCII text is used in this format." />
+		<lang code="Description_ArchivePlugin" value="A Translation Plugin is able to read and write language packs." />
+		<lang code="Description_DefaultExtensions" value="The extensions handled by this plugin are: " />
+		<lang code="Description_DefaultGames" value="The games that this plugin is used for are: " />
+		<lang code="Description_DefaultPlatforms" value="The platforms that this plugin can analyze are: " />
+		<lang code="Description_DirectoryListPanel" value="Directory Lists are the way that files and directories are presented to the user, to allow the finding and choosing of files." />
+		<lang code="Description_FileListPanel" value="Text Lists are the way that texts in a language pack are displayed." />
+		<lang code="Description_NoDefaultExtensions" value="There are no default extensions handled by this plugin." />
+		<lang code="Description_NoDefaultGames" value="There are no default games handled by this plugin." />
+		<lang code="Description_NoDefaultPlatforms" value="There are no default platforms handled by this plugin." />
+		<lang code="Description_OptionsPlugin" value="Option Groups are plugins that contain a group of settings that can be configured." />
+		<lang code="Description_PluginDisabled" value="This plugin is disabled." />
+		<lang code="Description_PluginEnabled" value="This plugin is enabled." />
+		<lang code="Description_ReadOperation" value="Reading" />
+		<lang code="Description_RenameOperation" value="Translating" />
+		<lang code="Description_SidePanel" value="Side Panels are the panels that appear on the right of Game Translator, and control the tasks that can be performed." />
+		<lang code="Description_SupportedOperations" value="The following operations are supported: " />
+		<lang code="Description_Unicode" value="Unicode text is used in this format." />
+		<lang code="Description_Version" value="The script is version " />
+		<lang code="Description_WriteOperation" value="Saving" />
+		<lang code="Extension" value="Extension" />
+		<lang code="Game" value="Game" />
+		<lang code="Information_AllowedFunctions" value="Operations" />
+		<lang code="Information_BasePath" value="Base Path" />
+		<lang code="Information_NumSelectedFiles" value="Number Selected" />
+		<lang code="Information_NumberOfFiles" value="Number of Texts" />
+		<lang code="Information_PluginClass" value="Plugin Type" />
+		<lang code="Information_PluginName" value="Plugin Name" />
+		<lang code="Information_SupportedExtensions" value="Extensions" />
+		<lang code="Information_SupportedGames" value="Games" />
+		<lang code="Information_SupportedPlatforms" value="Platforms" />
+		<lang code="Name" value="Plugin Name" />
+		<lang code="Options_Appearance_SidePanel_Options_Appearance_Main_Text" value="Appearance" />
+		<lang code="Options_Directories_SidePanel_Options_Directories_Main_Text" value="Directories" />
+		<lang code="Options_General_SidePanel_Options_General_Main_Text" value="General" />
+		<lang code="Options_OpeningArchives_SidePanel_Options_OpeningArchives_Main_Text" value="Opening Language Packs" />
+		<lang code="Options_Popups_SidePanel_Options_Popups_Main_Text" value="Popups" />
+		<lang code="Options_TableColumns_SidePanel_Options_TableColumns_Main_Text" value="Table Columns" />
+		<lang code="Options_ToolbarButtons_SidePanel_Options_ToolbarButtons_Main_Text" value="Toolbar Buttons" />
+		<lang code="Plugin_Archive_Name" value="Translators" />
+		<lang code="Plugin_DirectoryList_Name" value="Directory Lists" />
+		<lang code="Plugin_FileList_Name" value="Text Lists" />
+		<lang code="Plugin_OptionGroup_Name" value="Option Groups" />
+		<lang code="Plugin_SidePanel_Name" value="Side Panels" />
+		<lang code="Progress_AddingFiles" value="Adding Texts" />
+		<lang code="Progress_AddingFiles_Undo" value="Removing the Added Texts" />
+		<lang code="Progress_PleaseWait" value="Please Wait" />
+		<lang code="Progress_ReadingArchive" value="Reading Language Pack" />
+		<lang code="Progress_RemovingFiles" value="Removing Texts" />
+		<lang code="Progress_RemovingFiles_Undo" value="Adding the Removed Texts" />
+		<lang code="Progress_SearchingFiles" value="Searching for Texts" />
+		<lang code="Progress_WritingArchive" value="Saving The Language Pack" />
+		<lang code="Progress_WritingDirectory" value="Writing the Directory" />
+		<lang code="Progress_WritingFiles" value="Saving The Texts" />
+		<lang code="Task_AddFiles" value="&number& Texts Added" />
+		<lang code="Task_RemoveFiles" value="&number& Texts Removed" />
+		<lang code="Task_ChangeText" value="Changed text to &newValue&" />
+		<lang code="WSButton_About_Text" value="About" />
+		<lang code="WSButton_About_Tooltip" value="About Game Translator and its author." />
+		<lang code="WSButton_AddResources_Text" value="Add Texts" />
+		<lang code="WSButton_AddResources_Tooltip" value="Add texts into the language pack." />
+		<lang code="WSButton_Choose_Text" value="Choose" />
+		<lang code="WSButton_Choose_Tooltip" value="Choose..." />
+		<lang code="WSButton_CloseProgram_Text" value="Close Program" />
+		<lang code="WSButton_CloseProgram_Tooltip" value="Closes Game Translator." />
+		<lang code="WSButton_ComboArrowButton_Text" value="" />
+		<lang code="WSButton_ComboArrowButton_Tooltip" value="Choose..." />
+		<lang code="WSButton_CurrentFont_Text" value="Choose" />
+		<lang code="WSButton_CurrentFont_Tooltip" value="The font used by the program." />
+		<lang code="WSButton_FontChooserClosePopup_Text" value="Change Font" />
+		<lang code="WSButton_Help_Text" value="Help" />
+		<lang code="WSButton_Help_Tooltip" value="Displays the help documents." />
+		<lang code="WSButton_Information_Text" value="Information" />
+		<lang code="WSButton_Information_Tooltip" value="Shows information about the current language pack and its texts." />
+		<lang code="WSButton_NewArchive_Text" value="New Language Pack" />
+		<lang code="WSButton_NewArchive_Tooltip" value="Creates a new empty language pack." />
+		<lang code="WSButton_Option_ToolbarButtons_AddButton_Small" value="Add \/" />
+		<lang code="WSButton_Option_ToolbarButtons_AddButton_Text" value="Add To Toolbar \/" />
+		<lang code="WSButton_Option_ToolbarButtons_AddButton_Tooltip" value="Add the selected button to the toolbar." />
+		<lang code="WSButton_Option_ToolbarButtons_MoveDown_Text" value="Move Button Down" />
+		<lang code="WSButton_Option_ToolbarButtons_MoveDown_Tooltip" value="Move the selected button down (Swap the with the button below it)." />
+		<lang code="WSButton_Option_ToolbarButtons_MoveUp_Text" value="Move Button Up" />
+		<lang code="WSButton_Option_ToolbarButtons_MoveUp_Tooltip" value="Move the selected button up (Swap the with the button above it)." />
+		<lang code="WSButton_Option_ToolbarButtons_RemoveButton_Small" value="Remove /\" />
+		<lang code="WSButton_Option_ToolbarButtons_RemoveButton_Text" value="Remove From Toolbar /\" />
+		<lang code="WSButton_Option_ToolbarButtons_RemoveButton_Tooltip" value="Remove the selected button from the toolbar." />
+		<lang code="WSButton_Options_Text" value="Options" />
+		<lang code="WSButton_Options_Tooltip" value="Change the way Game Translator works and looks." />
+		<lang code="WSButton_ParentDirectory_Tooltip" value="Change to the previous (parent) directory." />
+		<lang code="WSButton_PluginList_Text" value="Plugin List" />
+		<lang code="WSButton_PluginList_Tooltip" value="Displays a list of the loaded plugins." />
+		<lang code="WSButton_ReadArchive_Text" value="Open Language Pack" />
+		<lang code="WSButton_ReadArchive_Tooltip" value="Opens a language pack on your computer." />
+		<lang code="WSButton_RedoComboButton_Tooltip" value="Re-applies a change that was undone." />
+		<lang code="WSButton_RemoveResources_Text" value="Remove Texts" />
+		<lang code="WSButton_RemoveResources_Tooltip" value="Removes the selected texts from the language pack." />
+		<lang code="WSButton_Search_Text" value="Search" />
+		<lang code="WSButton_Search_Tooltip" value="Search for texts in the language pack." />
+		<lang code="WSButton_SelectResources_All_Text" value="Select All" />
+		<lang code="WSButton_SelectResources_All_Tooltip" value="Select texts in the language pack." />
+		<lang code="WSButton_Separator_Tooltip" value="Provides a spacer between buttons on the toolbar." />
+		<lang code="WSButton_SidePanel_DirectoryList_AddFileButton_Tooltip" value="Add the texts to the language pack." />
+		<lang code="WSButton_SidePanel_DirectoryList_ConvertArchiveButton_Tooltip" value="Save the language pack in the chosen format." />
+		<lang code="WSButton_SidePanel_DirectoryList_ConvertPanelButton_Tooltip" value="Displays the Convert Language Pack controls." />
+		<lang code="WSButton_SidePanel_DirectoryList_ModifyPanelButton_Tooltip" value="Displays the Modify Language Pack controls." />
+		<lang code="WSButton_SidePanel_DirectoryList_ReadArchiveButton_Tooltip" value="Open the selected language pack." />
+		<lang code="WSButton_SidePanel_DirectoryList_ReadPanelButton_Tooltip" value="Displays the Open Language Pack controls." />
+		<lang code="WSButton_SidePanel_DirectoryList_RemoveFileButton_Tooltip" value="Removes the texts from the language pack." />
+		<lang code="WSButton_SidePanel_DirectoryList_WriteArchiveButton_Tooltip" value="Save the language pack." />
+		<lang code="WSButton_SidePanel_DirectoryList_WritePanelButton_Tooltip" value="Displays the Save Language Pack controls" />
+		<lang code="WSButton_SidePanel_Options_SaveOptionsButton_Text" value="Save Options" />
+		<lang code="WSButton_SidePanel_Options_SaveOptionsButton_Tooltip" value="Saves the options." />
+		<lang code="WSButton_SidePanel_Search_FindNextButton_Text" value="Find Next Match" />
+		<lang code="WSButton_SidePanel_Search_FindNextButton_Tooltip" value="Find the next matching text." />
+		<lang code="WSButton_SidePanel_Search_SelectAllButton_Text" value="Select All Matches" />
+		<lang code="WSButton_SidePanel_Search_SelectAllButton_Tooltip" value="Select all the texts that match." />
+		<lang code="WSButton_UndoComboButton_Tooltip" value="Reverses a change made to the language pack." />
+		<lang code="WSButton_WriteArchive_Text" value="Save Language Pack" />
+		<lang code="WSButton_WriteArchive_Tooltip" value="Saves the language pack to your computer." />
+		<lang code="WSCheckBox_AutoResizeTableColumns_Text" value="Automatically resize table columns" />
+		<lang code="WSCheckBox_AutoResizeTableColumns_Tooltip" value="When resizing the table columns, they will be changed to fix the width of the table. If unticked, the table columns can be as wide as you want." />
+		<lang code="WSCheckBox_DebugMode_Text" value="Debug mode" />
+		<lang code="WSCheckBox_DebugMode_Tooltip" value="Writes all error messages to the screen (ticked), or only to the error log file (unticked)." />
+		<lang code="WSCheckBox_AddTextChangesIntoUndo_Text" value="Add Text Changes into Undo" />
+		<lang code="WSCheckBox_AddTextChangesIntoUndo_Tooltip" value="When changing a translation, add it into the Undo menu (ticked) or not (unnticked)." />
+		<lang code="WSCheckBox_LargeButtonIcons_Text" value="Large buttons (requires restart)" />
+		<lang code="WSCheckBox_LargeButtonIcons_Tooltip" value="Buttons have large (ticked) or small (unticked) images." />
+		<lang code="WSCheckBox_OpenArchiveOnDoubleClick_Text" value="Open language pack on double-click" />
+		<lang code="WSCheckBox_OpenArchiveOnDoubleClick_Tooltip" value="When double-clicking on a file in the directory list, it will be opened." />
+		<lang code="WSCheckBox_Popup_AddFiles_FilesAdded_Show_Text" value="Texts Added" />
+		<lang code="WSCheckBox_Popup_AddFiles_FilesAdded_Show_Tooltip" value="Show a popup message when texts are added to the language pack." />
+		<lang code="WSCheckBox_Popup_AddFiles_FilesRemoved_Show_Text" value="Undo: Texts Added" />
+		<lang code="WSCheckBox_Popup_AddFiles_FilesRemoved_Show_Tooltip" value="Show a popup message when texts are removed from the language pack." />
+		<lang code="WSCheckBox_Popup_AddFiles_NegativeNumberOfFiles_Show_Text" value="Invalid Number of Texts to Add" />
+		<lang code="WSCheckBox_Popup_AddFiles_NegativeNumberOfFiles_Show_Tooltip" value="Show a popup message when you have specified an invalid number of texts to add to the language pack." />
+		<lang code="WSCheckBox_Popup_ConvertArchive_FilenameMissing_Show_Text" value="No Filename for Converting" />
+		<lang code="WSCheckBox_Popup_ConvertArchive_FilenameMissing_Show_Tooltip" value="Show a popup message when there is no filename for the converted language pack." />
+		<lang code="WSCheckBox_Popup_FullVersionOnly_Show_Text" value="Full Version Only" />
+		<lang code="WSCheckBox_Popup_FullVersionOnly_Show_Tooltip" value="Show a popup message when a task is only available in the Full Version." />
+		<lang code="WSCheckBox_Popup_Options_OptionsSaved_Show_Text" value="Options Saved" />
+		<lang code="WSCheckBox_Popup_Options_OptionsSaved_Show_Tooltip" value="Show a popup message when the options have been saved." />
+		<lang code="WSCheckBox_Popup_ReadArchive_ArchiveOpened_Show_Text" value="Language Pack Opened" />
+		<lang code="WSCheckBox_Popup_ReadArchive_ArchiveOpened_Show_Tooltip" value="Show a popup message when a language pack has been opened." />
+		<lang code="WSCheckBox_Popup_ReadArchive_FileNotAnArchive_Show_Text" value="File is Not a Language Pack" />
+		<lang code="WSCheckBox_Popup_ReadArchive_FileNotAnArchive_Show_Tooltip" value="Show a popup message when a language pack cannot be opened because it is not a language pack." />
+		<lang code="WSCheckBox_Popup_ReadArchive_FilenameMissing_Show_Text" value="No Language Pack to Open" />
+		<lang code="WSCheckBox_Popup_ReadArchive_FilenameMissing_Show_Tooltip" value="Show a popup message when there is no selected language pack to open." />
+		<lang code="WSCheckBox_Popup_ReadArchive_MakeNewArchive_Show_Text" value="New Language Pack Created" />
+		<lang code="WSCheckBox_Popup_ReadArchive_MakeNewArchive_Show_Tooltip" value="Show a popup message when a new language pack is created." />
+		<lang code="WSCheckBox_Popup_ReadArchive_NoPluginsFound_Show_Text" value="No Plugin To Open Language Pack" />
+		<lang code="WSCheckBox_Popup_ReadArchive_NoPluginsFound_Show_Tooltip" value="Show a popup message when Game Translator was unable to open a language pack." />
+		<lang code="WSCheckBox_Popup_ReadArchive_ReadWithPluginFailed_Show_Text" value="Open Language Pack with Plugin Failed" />
+		<lang code="WSCheckBox_Popup_ReadArchive_ReadWithPluginFailed_Show_Tooltip" value="Show a popup message when a language pack couldn't be opened with a given plugin." />
+		<lang code="WSCheckBox_Popup_RemoveFiles_FilesAdded_Show_Text" value="Undo: Texts Removed" />
+		<lang code="WSCheckBox_Popup_RemoveFiles_FilesAdded_Show_Tooltip" value="Show a popup message when texts have been added to the language pack." />
+		<lang code="WSCheckBox_Popup_RemoveFiles_FilesRemoved_Show_Text" value="Texts Removed" />
+		<lang code="WSCheckBox_Popup_RemoveFiles_FilesRemoved_Show_Tooltip" value="Show a popup message when texts have been removed from the language pack." />
+		<lang code="WSCheckBox_Popup_RemoveFiles_NoFilesToRemove_Show_Text" value="No Texts Selected to Remove" />
+		<lang code="WSCheckBox_Popup_RemoveFiles_NoFilesToRemove_Show_Tooltip" value="Show a popup message when there were no texts selected to remove from the language pack." />
+		<lang code="WSCheckBox_Popup_Search_MatchFound_Show_Text" value="Search Match Found" />
+		<lang code="WSCheckBox_Popup_Search_MatchFound_Show_Tooltip" value="Show a popup message when a result is found by the search." />
+		<lang code="WSCheckBox_Popup_Search_NoColumnsSelected_Show_Text" value="No Search Columns Selected" />
+		<lang code="WSCheckBox_Popup_Search_NoColumnsSelected_Show_Tooltip" value="Show a popup message when no columns are selected for searching." />
+		<lang code="WSCheckBox_Popup_Search_NoMatchFound_Show_Text" value="No Search Match Found" />
+		<lang code="WSCheckBox_Popup_Search_NoMatchFound_Show_Tooltip" value="Show a popup message when no texts were found by the search." />
+		<lang code="WSCheckBox_Popup_Search_NoSearchValue_Show_Text" value="No Search Value" />
+		<lang code="WSCheckBox_Popup_Search_NoSearchValue_Show_Tooltip" value="Show a popup message when there is no search value specified." />
+		<lang code="WSCheckBox_Popup_SelectResources_All_Show_Text" value="Selected All Texts" />
+		<lang code="WSCheckBox_Popup_SelectResources_All_Show_Tooltip" value="Show a popup message when all texts in the TextList have been selected." />
+		<lang code="WSCheckBox_Popup_SelectResources_Inverse_Show_Text" value="Selected Inverse Texts" />
+		<lang code="WSCheckBox_Popup_SelectResources_Inverse_Show_Tooltip" value="Show a popup message when the inverse texts in the TextList have been selected." />
+		<lang code="WSCheckBox_Popup_SelectResources_None_Show_Text" value="Selected No Texts" />
+		<lang code="WSCheckBox_Popup_SelectResources_None_Show_Tooltip" value="Show a popup message when all the texts in the TextList have been deselected." />
+		<lang code="WSCheckBox_Popup_SidePanelChanged_Show_Text" value="Side Panel Changed" />
+		<lang code="WSCheckBox_Popup_SidePanelChanged_Show_Tooltip" value="Show a popup message when the SidePanel is changed." />
+		<lang code="WSCheckBox_Popup_WriteArchive_ArchiveSaved_Show_Text" value="Language Pack Saved" />
+		<lang code="WSCheckBox_Popup_WriteArchive_ArchiveSaved_Show_Tooltip" value="Show a popup message when a language pack has been saved." />
+		<lang code="WSCheckBox_Popup_WriteArchive_FilenameMissing_Show_Text" value="No Filename for Saving" />
+		<lang code="WSCheckBox_Popup_WriteArchive_FilenameMissing_Show_Tooltip" value="Show a popup message when there is no filename for the saved language pack." />
+		<lang code="WSCheckBox_ShowSplashScreen_Text" value="Show splash screen on startup" />
+		<lang code="WSCheckBox_ShowSplashScreen_Tooltip" value="Show the splash screen when loading the program." />
+		<lang code="WSCheckBox_ShowSystemSpecificIcons_Text" value="Show proper icons for files (slower)" />
+		<lang code="WSCheckBox_ShowSystemSpecificIcons_Tooltip" value="If ticked, the icons for each file will be displayed the same as in Windows. However, this can sometimes be slow. Unticking will show the files with basic icons." />
+		<lang code="WSCheckBox_ShowTableColumn_AddedIcon_Text" value="Added?" />
+		<lang code="WSCheckBox_ShowTableColumn_AddedIcon_Tooltip" value="Show the Added column in the TextList Table." />
+		<lang code="WSCheckBox_ShowTableColumn_Property_Text" value="Property" />
+		<lang code="WSCheckBox_ShowTableColumn_Property_Tooltip" value="Show the Property column in the TextList Table." />
+		<lang code="WSCheckBox_ShowTableColumn_Hash_Text" value="Hash" />
+		<lang code="WSCheckBox_ShowTableColumn_Hash_Tooltip" value="Show the Hash column in the TextList Table." />
+		<lang code="WSCheckBox_ShowTableColumn_Original_Text" value="Original" />
+		<lang code="WSCheckBox_ShowTableColumn_Original_Tooltip" value="Show the Original column in the TextList Table" />
+		<lang code="WSCheckBox_ShowTableColumn_RenamedIcon_Text" value="Renamed?" />
+		<lang code="WSCheckBox_ShowTableColumn_RenamedIcon_Tooltip" value="Show the Renamed column in the TextList table." />
+		<lang code="WSCheckBox_ShowTableColumn_Translated_Text" value="Translated" />
+		<lang code="WSCheckBox_ShowTableColumn_Translated_Tooltip" value="Show the Translated column in the TextList table." />
+		<lang code="WSComboBox_CurrentLanguage_Tooltip" value="The language to use for the interface." />
+		<lang code="WSComboBox_PluginListDisplayType_Tooltip" value="How should the plugins be displayed in the dropdown boxes?" />
+		<lang code="WSComboBox_SidePanel_DirectoryList_ConvertPluginList_Tooltip" value="The format to use when converting a language pack." />
+		<lang code="WSComboBox_SidePanel_DirectoryList_ReadPluginList_Tooltip" value="The plugin to use when reading a language pack, or choose 'All Files' and Game Translator will pick the best plugin." />
+		<lang code="WSComboBox_SidePanel_Options_OptionGroups_Tooltip" value="The different groups of options that can be changed." />
+		<lang code="WSComboBox_SidePanel_PluginList_PluginTypes_Tooltip" value="The type of plugin to display." />
+		<lang code="WSCreditsPanel_SidePanel_About_Credits_Tooltip" value="The credits of Game Translator." />
+		<lang code="WSDirectoryListHolder_SidePanel_DirectoryList_DirectoryListHolder_Tooltip" value="The DirectoryList, which displays the files on the computer." />
+		<lang code="WSEditorPane_SidePanel_Help_Display_Tooltip" value="The document, listing the help for a variety of topics." />
+		<lang code="WSFileListPanelHolder_FileListPanelHolder_Tooltip" value="The TextList, which displays all the texts in a language pack." />
+		<lang code="WSLabel_AddFiles_FilesAdded_Text" value="The selected texts were added to the language pack." />
+		<lang code="WSLabel_AddFiles_FilesRemoved_Text" value="The added texts were removed from the language pack." />
+		<lang code="WSLabel_AddFiles_NegativeNumberOfFiles_Text" value="An invalid number of texts was specified to add to the language pack." />
+		<lang code="WSLabel_ComponentList_About_Text" value="About Game Translator" />
+		<lang code="WSLabel_ComponentList_AddResources_Text" value="Add Texts" />
+		<lang code="WSLabel_ComponentList_CloseProgram_Text" value="Close Game Translator" />
+		<lang code="WSLabel_ComponentList_Help_Text" value="Game Translator Help" />
+		<lang code="WSLabel_ComponentList_Information_Text" value="File Information" />
+		<lang code="WSLabel_ComponentList_NewArchive_Text" value="New Language Pack" />
+		<lang code="WSLabel_ComponentList_Options_Text" value="Options" />
+		<lang code="WSLabel_ComponentList_PluginList_Text" value="Plugin List" />
+		<lang code="WSLabel_ComponentList_ReadArchive_Text" value="Open Language Pack" />
+		<lang code="WSLabel_ComponentList_RedoComboButton_Text" value="Redo Change" />
+		<lang code="WSLabel_ComponentList_RemoveResources_Text" value="Remove Texts" />
+		<lang code="WSLabel_ComponentList_Search_Text" value="Search" />
+		<lang code="WSLabel_ComponentList_SelectResources_All_Text" value="Select Texts" />
+		<lang code="WSLabel_ComponentList_Separator_Text" value="Separator" />
+		<lang code="WSLabel_ComponentList_UndoComboButton_Text" value="Undo Change" />
+		<lang code="WSLabel_ComponentList_WriteArchive_Text" value="Save Language Pack" />
+		<lang code="WSLabel_ConvertArchive_FilenameMissing_Text" value="You must specify a filename for the saved language pack." />
+		<lang code="WSLabel_CurrentLanguage_Text" value="Language" />
+		<lang code="WSLabel_FullVersionOnly_Text" value="This feature is only available in the Full Version of Game Translator." />
+		<lang code="WSLabel_ModifyArchive_NotReplacable_Text" value="This language pack format does not allow texts to be replaced." />
+		<lang code="WSLabel_ModifyArchive_NotWritable_Text" value="This language pack format does not allow texts to be added or removed." />
+		<lang code="WSLabel_Options_OptionsSaved_Text" value="The options were saved." />
+		<lang code="WSLabel_PluginListDisplayType_Text" value="Plugin List Display" />
+		<lang code="WSLabel_ReadArchive_ArchiveOpened_Text" value="The language pack was opened successfully." />
+		<lang code="WSLabel_ReadArchive_FileNotAnArchive_Text" value="The selected file is not a language pack." />
+		<lang code="WSLabel_ReadArchive_FilenameMissing_Text" value="No language pack file was selected for opening." />
+		<lang code="WSLabel_ReadArchive_MakeNewArchive_Text" value="A new language pack has been created." />
+		<lang code="WSLabel_ReadArchive_NoPluginsFound_Text" value="No plugins were able to open the language pack." />
+		<lang code="WSLabel_ReadArchive_ReadWithPluginFailed_Text" value="The selected plugin was not able to open the language pack." />
+		<lang code="WSLabel_RemoveFiles_FilesAdded_Text" value="The removed texts were added back in to the language pack." />
+		<lang code="WSLabel_RemoveFiles_FilesRemoved_Text" value="The selected texts were removed from the language pack." />
+		<lang code="WSLabel_RemoveFiles_NoFilesToRemove_Text" value="No texts have been selected to remove from the language pack." />
+		<lang code="WSLabel_SaveChanges_Text" value="The language pack was modified. Do you want to save the changes?" />
+		<lang code="WSLabel_Search_MatchFound_Text" value="The search has found a match." />
+		<lang code="WSLabel_Search_NoColumnsSelected_Text" value="There are no columns chosen to search in." />
+		<lang code="WSLabel_Search_NoMatchFound_Text" value="The search did not find any matches." />
+		<lang code="WSLabel_Search_NoSearchValue_Text" value="No search value is specified." />
+		<lang code="WSLabel_SelectResources_All_Text" value="All the texts in the language pack are selected." />
+		<lang code="WSLabel_SelectResources_Inverse_Text" value="The texts in the language pack have been inversely selected." />
+		<lang code="WSLabel_SelectResources_None_Text" value="All the texts in the language pack have been unselected." />
+		<lang code="WSLabel_SidePanelChanged_Text" value="The side panel was changed." />
+		<lang code="WSLabel_SidePanel_DirectoryList_InvalidControls_Text" value="The current language pack can not be modified or saved." />
+		<lang code="WSLabel_SidePanel_DirectoryList_SaveNewArchiveControls_Text" value="This language pack hasn't been saved before. Please use Convert Language Pack instead." />
+		<lang code="WSLabel_SidePanel_DirectoryList_SaveNewArchiveControls_Tooltip" value="When saving a new language pack, use the Convert Language Pack controls instead, which lets you choose the format for the language pack." />
+		<lang code="WSLabel_WriteArchive_ArchiveSaved_Text" value="The language pack was saved successfully." />
+		<lang code="WSLabel_WriteArchive_FilenameMissing_Text" value="You must specify a filename for the saved language pack." />
+		<lang code="WSList_DirectoryList_Tooltip" value="The Directory List, which displays the files on the computer." />
+		<lang code="WSList_Option_ToolbarButtons_ChoicesList_Tooltip" value="Lists the buttons that can be added to the toolbar." />
+		<lang code="WSList_Option_ToolbarButtons_CurrentList_Tooltip" value="Lists the buttons that already exist on the toolbar." />
+		<lang code="WSList_SidePanel_PluginList_Plugins_Tooltip" value="The loaded plugins of the chosen type are displayed here." />
+		<lang code="WSMenuBar_MainMenuBar_Tooltip" value="The main menu, listing all common tasks." />
+		<lang code="WSMenuItem_About_Text" value="About Game Translator" />
+		<lang code="WSMenuItem_About_Tooltip" value="Opens the SidePanel that provides information about Game Translator." />
+		<lang code="WSMenuItem_AddResources_Text" value="Add Texts" />
+		<lang code="WSMenuItem_AddResources_Tooltip" value="Opens the SidePanel for adding texts to the language pack." />
+		<lang code="WSMenuItem_CloseProgram_Text" value="Close Game Translator" />
+		<lang code="WSMenuItem_CloseProgram_Tooltip" value="Closes Game Translator." />
+		<lang code="WSMenuItem_ConvertArchive_Text" value="Convert Language Pack" />
+		<lang code="WSMenuItem_ConvertArchive_Tooltip" value="Opens the SidePanel to convert a language pack to a different format." />
+		<lang code="WSMenuItem_Help_Text" value="General Help" />
+		<lang code="WSMenuItem_Help_Tooltip" value="Opens the SidePanel with Game Translator help." />
+		<lang code="WSMenuItem_Information_Text" value="Information" />
+		<lang code="WSMenuItem_Information_Tooltip" value="Opens the SidePanel that shows information about the current language pack and texts." />
+		<lang code="WSMenuItem_NewArchive_Text" value="New Language Pack" />
+		<lang code="WSMenuItem_NewArchive_Tooltip" value="Creates a new language pack." />
+		<lang code="WSMenuItem_Options_Text" value="Options" />
+		<lang code="WSMenuItem_Options_Tooltip" value="Opens the SidePanel for changing the Game Translator settings." />
+		<lang code="WSMenuItem_PluginList_Text" value="Plugin List" />
+		<lang code="WSMenuItem_PluginList_Tooltip" value="Opens the SidePanel that displays the plugins loaded by Game Translator." />
+		<lang code="WSMenuItem_ReadArchive_Text" value="Open Language Pack" />
+		<lang code="WSMenuItem_ReadArchive_Tooltip" value="Opens the SidePanel that allows you to open a language pack." />
+		<lang code="WSMenuItem_RemoveResources_Text" value="Remove Texts" />
+		<lang code="WSMenuItem_RemoveResources_Tooltip" value="Opens the SidePanel where you can remove texts from the language pack." />
+		<lang code="WSMenuItem_Search_Text" value="Search" />
+		<lang code="WSMenuItem_Search_Tooltip" value="Opens the SidePanel where you can search for texts in the language pack." />
+		<lang code="WSMenuItem_SelectResources_All_Text" value="Select All" />
+		<lang code="WSMenuItem_SelectResources_All_Tooltip" value="Selects all the texts in the TextList" />
+		<lang code="WSMenuItem_SelectResources_Inverse_Text" value="Select Inverse" />
+		<lang code="WSMenuItem_SelectResources_Inverse_Tooltip" value="Selects the opposite texts in the TextList" />
+		<lang code="WSMenuItem_SelectResources_None_Text" value="Select None" />
+		<lang code="WSMenuItem_SelectResources_None_Tooltip" value="Deselects all the texts in the TextList" />
+		<lang code="WSMenuItem_WriteArchive_Text" value="Save Language Pack" />
+		<lang code="WSMenuItem_WriteArchive_Tooltip" value="Opens the SidePanel that allows you to save a language pack." />
+		<lang code="WSMenu_File_Text" value="File" />
+		<lang code="WSMenu_File_Tooltip" value="File menu" />
+		<lang code="WSMenu_Help_Text" value="Help" />
+		<lang code="WSMenu_Help_Tooltip" value="Help menu" />
+		<lang code="WSMenu_Manipulate_Text" value="Manipulate" />
+		<lang code="WSMenu_Manipulate_Tooltip" value="Manipulate menu" />
+		<lang code="WSMenu_Select_Text" value="Select" />
+		<lang code="WSMenu_Select_Tooltip" value="Select menu" />
+		<lang code="WSMenu_Tools_Text" value="Tools" />
+		<lang code="WSMenu_Tools_Tooltip" value="Tools menu" />
+		<lang code="WSMenu_WriteArchive_Text" value="Save Language Pack..." />
+		<lang code="WSMenu_WriteArchive_Tooltip" value="Choices for writing a language pack" />
+		<lang code="WSOptionGroupHolder_SidePanel_Options_OptionGroupHolder_Tooltip" value="This is where the options are displayed." />
+		<lang code="WSPanel_Option_Appearance_CurrentLanguage_Label_Label" value="Current Language" />
+		<lang code="WSPanel_Option_Appearance_CurrentLanguage_Label_Tooltip" value="" />
+		<lang code="WSPanel_Option_Appearance_PluginListDisplayType_Label_Label" value="Plugin Lists Display Type" />
+		<lang code="WSPanel_Option_Appearance_PluginListDisplayType_Label_Tooltip" value="" />
+		<lang code="WSPanel_SidePanel_About_Tooltip" value="About Game Translator." />
+		<lang code="WSPanel_SidePanel_DirectoryList_ConvertPanel_Main_Label" value="Convert Language Pack" />
+		<lang code="WSPanel_SidePanel_DirectoryList_ConvertPanel_Main_Tooltip" value="The controls for converting a language pack to a different format." />
+		<lang code="WSPanel_SidePanel_DirectoryList_ModifyPanel_Main_Label" value="Modify Language Pack" />
+		<lang code="WSPanel_SidePanel_DirectoryList_ModifyPanel_Main_Tooltip" value="Controls for modifying language packs." />
+		<lang code="WSPanel_SidePanel_DirectoryList_ReadPanel_Main_Label" value="Open Language Pack" />
+		<lang code="WSPanel_SidePanel_DirectoryList_ReadPanel_Main_Tooltip" value="The controls for opening a language pack." />
+		<lang code="WSPanel_SidePanel_DirectoryList_WritePanel_Main_Label" value="Save Language Pack" />
+		<lang code="WSPanel_SidePanel_DirectoryList_WritePanel_Main_Tooltip" value="The controls for saving a language pack." />
+		<lang code="WSPanel_SidePanel_Information_ArchiveTable_Label_Label" value="Current Language Pack" />
+		<lang code="WSPanel_SidePanel_Information_ArchiveTable_Label_Tooltip" value="Information about the current language pack." />
+		<lang code="WSPanel_SidePanel_Information_PluginTable_Label_Label" value="Compatible Plugins" />
+		<lang code="WSPanel_SidePanel_Information_PluginTable_Label_Tooltip" value="The plugins that could be used to open this language pack." />
+		<lang code="WSPanel_SidePanel_Information_ResourceTable_Label_Label" value="Selected Texts" />
+		<lang code="WSPanel_SidePanel_Information_ResourceTable_Label_Tooltip" value="Information about the selected texts in the TextList." />
+		<lang code="WSPanel_SidePanel_Information_Tooltip" value="Information about the current language pack and texts." />
+		<lang code="WSPanel_SidePanel_Search_ColumnsHolder_Label" value="Searchable Columns" />
+		<lang code="WSPanel_SidePanel_Search_ColumnsHolder_Tooltip" value="The columns that are searched." />
+		<lang code="WSPanel_SidePanel_Search_Tooltip" value="Search for texts in the language pack." />
+		<lang code="WSRecentFileMenu_RecentFileMenu_Text" value="Recent Files" />
+		<lang code="WSRecentFileMenu_RecentFileMenu_Tooltip" value="Language Packs that were recently opened or saved." />
+		<lang code="WSRedoMenuItem_Empty_Tooltip" value="There are no tasks that can be redone." />
+		<lang code="WSRedoMenu_RedoMenu_Text" value="Redo..." />
+		<lang code="WSRedoMenu_RedoMenu_Tooltip" value="Redo a task that was undone." />
+		<lang code="WSScrollPane_Option_ToolbarButtons_ChoicesLabel_Label" value="Available Buttons" />
+		<lang code="WSScrollPane_Option_ToolbarButtons_ChoicesLabel_Tooltip" value="" />
+		<lang code="WSScrollPane_Option_ToolbarButtons_CurrentLabel_Label" value="Current Toolbar" />
+		<lang code="WSScrollPane_Option_ToolbarButtons_CurrentLabel_Tooltip" value="" />
+		<lang code="WSScrollPane_SidePanel_Options_Appearance_Label_Label" value="Appearance" />
+		<lang code="WSScrollPane_SidePanel_Options_Appearance_Label_Tooltip" value="Visual appearance settings" />
+		<lang code="WSScrollPane_SidePanel_Options_Directories_Label_Label" value="Directories" />
+		<lang code="WSScrollPane_SidePanel_Options_Directories_Label_Tooltip" value="The directories used to save files." />
+		<lang code="WSScrollPane_SidePanel_Options_General_Label_Label" value="General Settings" />
+		<lang code="WSScrollPane_SidePanel_Options_General_Label_Tooltip" value="General Game Translator settings" />
+		<lang code="WSScrollPane_SidePanel_Options_OpeningArchives_Label_Label" value="Opening Language Packs" />
+		<lang code="WSScrollPane_SidePanel_Options_OpeningArchives_Label_Tooltip" value="Options for opening language packs." />
+		<lang code="WSScrollPane_SidePanel_Options_Popups_Label_Label" value="Popup Messages" />
+		<lang code="WSScrollPane_SidePanel_Options_Popups_Label_Tooltip" value="Choose the popups that you want to display." />
+		<lang code="WSScrollPane_SidePanel_Options_TableColumns_Label_Label" value="Text List Table Columns" />
+		<lang code="WSScrollPane_SidePanel_Options_TableColumns_Label_Tooltip" value="The columns that are to be shown in the Table Text List" />
+		<lang code="WSScrollPane_SidePanel_PluginList_PluginDescription_Label_Label" value="Plugin Description" />
+		<lang code="WSScrollPane_SidePanel_PluginList_PluginDescription_Label_Tooltip" value="The description of the selected plugin." />
+		<lang code="WSScrollPane_SidePanel_PluginList_Plugins_Label_Label" value="Plugins" />
+		<lang code="WSScrollPane_SidePanel_PluginList_Plugins_Label_Tooltip" value="The plugins of the selected type." />
+		<lang code="WSSidePanelHolder_SidePanelHolder_Tooltip" value="The SidePanel, which displays the controls for reading, writing, and manipulating language packs." />
+		<lang code="WSSplashDialog_Archive" value="Building Empty Language Pack" />
+		<lang code="WSStatusBar_StatusBar_Text" value="" />
+		<lang code="WSStatusBar_StatusBar_Tooltip" value="The StatusBar. Move the mouse over the window to display further information here." />
+		<lang code="WSTableColumn_AddedIcon_Text" value="Added?" />
+		<lang code="WSTableColumn_Hash_Text" value="Hash" />
+		<lang code="WSTableColumn_ID_Text" value="ID" />
+		<lang code="WSTableColumn_Original_Text" value="Original" />
+		<lang code="WSTableColumn_RenamedIcon_Text" value="Translated?" />
+		<lang code="WSTableColumn_Translated_Text" value="Translation" />
+		<lang code="WSTextArea_SidePanel_PluginList_PluginDescription_Tooltip" value="The description of the current plugin" />
+		<lang code="WSTextField_InterfaceColors_Label" value="Interface Colors" />
+		<lang code="WSTextField_InterfaceColors_Tooltip" value="The color of the interface." />
+		<lang code="WSTextField_LanguageDirectory_Label" value="Languages" />
+		<lang code="WSTextField_LanguageDirectory_Tooltip" value="The directory where the languages can be found." />
+		<lang code="WSTextField_MaxNumberOfFiles2_Label" value="Max Number of Texts (small language packs)" />
+		<lang code="WSTextField_MaxNumberOfFiles2_Tooltip" value="The maximum allowed number of texts, for small language packs. Used when auto-detecting the type of language pack." />
+		<lang code="WSTextField_MaxNumberOfFiles4_Label" value="Max Number of Texts (large language packs)" />
+		<lang code="WSTextField_MaxNumberOfFiles4_Tooltip" value="The maximum allowed number of texts, for large language packs. Used when auto-detecting the type of language pack." />
+		<lang code="WSTextField_NumberOfRecentFiles_Label" value="Number of Recent Files" />
+		<lang code="WSTextField_NumberOfRecentFiles_Tooltip" value="The number of recent files to remember." />
+		<lang code="WSTextField_NumberOfUndoTasks_Label" value="Number of Undos" />
+		<lang code="WSTextField_NumberOfUndoTasks_Tooltip" value="The number of undos to remember" />
+		<lang code="WSTextField_SelectedFont_Label" value="Current Font" />
+		<lang code="WSTextField_SelectedFont_Tooltip" value="The current font." />
+		<lang code="WSTextField_SidePanel_DirectoryList_ConvertFilenameField_Label" value="Save as... (filename)" />
+		<lang code="WSTextField_SidePanel_DirectoryList_ConvertFilenameField_Tooltip" value="The language pack will be saved with this name." />
+		<lang code="WSTextField_SidePanel_DirectoryList_NumFilesToAdd_Label" value="Number to Add" />
+		<lang code="WSTextField_SidePanel_DirectoryList_NumFilesToAdd_Tooltip" value="The number of texts that will be added to the language pack" />
+		<lang code="WSTextField_SidePanel_DirectoryList_WriteFilenameField_Label" value="Save as... (filename)" />
+		<lang code="WSTextField_SidePanel_DirectoryList_WriteFilenameField_Tooltip" value="The language pack will be saved with this name." />
+		<lang code="WSTextField_SidePanel_Search_InputText_Label" value="Search Value" />
+		<lang code="WSTextField_SidePanel_Search_InputText_Tooltip" value="The value to search for." />
+		<lang code="WSTextField_TempDirectory_Label" value="Temporary Directory" />
+		<lang code="WSTextField_TempDirectory_Tooltip" value="The directory where temporary files are stored." />
+		<lang code="WSToolBar_MainToolBar_Tooltip" value="The toolbar, containing buttons for performing common tasks." />
+		<lang code="WSUndoMenuItem_Empty_Tooltip" value="There are no tasks that can be undone." />
+		<lang code="WSUndoMenu_UndoMenu_Text" value="Undo..." />
+		<lang code="WSUndoMenu_UndoMenu_Tooltip" value="Undo a task." />
+		
+		<lang code="WSPanel_FileListPanel_Table_Properties_Label" value="Language Pack Properties" />
+		<lang code="WSTableColumn_Property_Text" value="Property" />
+		<lang code="WSPanel_FileListPanel_Table_Properties_Tooltip" value="This table shows the general properties of the Language Pack" />
+		
+		<lang code="WSCheckBox_ShowCustomColumns_Text" value="Show custom table columns" />
+		<lang code="WSCheckBox_ShowCustomColumns_Tooltip" value="If there are any custom table columns for an archive, do you want to show them (ticked) or not (unticked)?" />
+		
+		<lang code="" value="" />
+	
+	</texts>
+	
+</languagePack>

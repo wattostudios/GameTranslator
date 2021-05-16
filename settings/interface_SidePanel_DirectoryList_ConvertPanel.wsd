@@ -1,0 +1,10 @@
+<WSPanel code="SidePanel_DirectoryList_ConvertPanel_Main" showLabel="true" showBorder="true" layout="BorderLayout">
+	
+	<WSTextField code="SidePanel_DirectoryList_ConvertFilenameField" showLabel="true" position="NORTH" opaque="false" />
+	
+	<WSPanel code="SidePanel_DirectoryList_ConvertButtonsPanel" opaque="false" layout="BorderLayout" position="CENTER" >
+		<WSComboBox code="SidePanel_DirectoryList_ConvertPluginList" position="CENTER" opaque="false" />
+		<WSButton code="SidePanel_DirectoryList_ConvertArchiveButton" showText="false" position="EAST" />
+	</WSPanel>
+	
+</WSPanel>

@@ -1,0 +1,6 @@
++----------------------------------------------------------------------------+
+| The following components have been modified from the WSProgram 3.0 source. |
+| When overwriting these classes, such as for updates, please re-implement   |
+| the changes so that the components function properly.                      |
++----------------------------------------------------------------------------+
+

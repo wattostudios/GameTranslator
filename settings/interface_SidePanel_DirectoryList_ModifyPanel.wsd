@@ -1,0 +1,10 @@
+<WSPanel code="SidePanel_DirectoryList_ModifyPanel_Main" showLabel="true" showBorder="true" position="CENTER" >
+
+	<WSTextField code="SidePanel_DirectoryList_NumFilesToAdd" showLabel="true" position="CENTER" opaque="false" />
+	
+	<WSPanel layout="GridLayout" rows="1" columns="2" position="EAST" opaque="false">
+		<WSButton code="SidePanel_DirectoryList_AddFileButton" showText="false" />
+		<WSButton code="SidePanel_DirectoryList_RemoveFileButton" showText="false" />
+	</WSPanel>
+	
+</WSPanel>

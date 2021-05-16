@@ -1,0 +1,6 @@
+body { font-family:arial; font-size:12pt; color:#000000; background-color:#FFFFFF; }
+table { background-color:#3C7832; }
+table.noborder { background-color:#FFFFFF; }
+td { background-color:#FFFFFF; }
+td.heading { background-color:#82A97C; font-family:arial; font-size:14pt; font-weight:bold; text-align:center; }
+a { color:#3C7832; }

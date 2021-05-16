@@ -1,0 +1,19 @@
+<WSPanel code="SidePanel_Information" layout="BorderLayout">
+	
+	<WSPanel layout="BorderLayout" position="NORTH" vertical-gap="4">
+		
+		<WSPanel code="SidePanel_Information_ArchiveTable_Label" showLabel="true" showBorder="true" position="NORTH">
+			<WSTable code="SidePanel_Information_ArchiveTable" />
+		</WSPanel>
+		
+		<WSPanel code="SidePanel_Information_ResourceTable_Label" showLabel="true" showBorder="true" position="CENTER">
+			<WSTable code="SidePanel_Information_ResourceTable" />
+		</WSPanel>
+			
+		<WSPanel code="SidePanel_Information_PluginTable_Label" showLabel="true" showBorder="true" position="SOUTH">
+			<WSTable code="SidePanel_Information_PluginTable" />
+		</WSPanel>
+
+	</WSPanel>
+	
+</WSPanel>

@@ -1,0 +1,33 @@
+<WSList>
+	<WSToolBarSeparator orientation="vertical" />
+	
+	<WSButton code="NewArchive" opaque="false" showText="false" />
+	<WSButton code="ReadArchive" opaque="false" showText="false" />
+	<WSComboButton code="WriteArchive" opaque="false" repository="false">
+		<WSButton code="WriteArchive" opaque="false" showText="false" />
+		<WSPopupMenu visible="false">
+			<WSMenuItem code="WriteArchive" opaque="false" />
+			<WSMenuItem code="ConvertArchive" opaque="false" />
+		</WSPopupMenu>
+	</WSComboButton>
+	<WSButton code="AddResources" opaque="false" showText="false" />
+	<WSButton code="RemoveResources" opaque="false" showText="false" />
+	<WSUndoComboButton code="UndoComboButton" opaque="false" />
+	<WSRedoComboButton code="RedoComboButton" opaque="false" />
+	<WSComboButton code="SelectResources_All" opaque="false" repository="false">
+		<WSButton code="SelectResources_All" showText="false" />
+		<WSPopupMenu>
+			<WSMenuItem code="SelectResources_All" />
+			<WSMenuItem code="SelectResources_None" />
+			<WSMenuItem code="SelectResources_Inverse" />
+		</WSPopupMenu>
+	</WSComboButton>
+	<WSButton code="Options" opaque="false" showText="false" />
+	<WSButton code="Search" opaque="false" showText="false" />
+	<WSButton code="PluginList" opaque="false" showText="false" />
+	<WSButton code="Information" opaque="false" showText="false" />
+	<WSButton code="Help" opaque="false" showText="false" />
+	<WSButton code="About" opaque="false" showText="false" />
+	<WSButton code="CloseProgram" opaque="false" showText="false" />
+	
+</WSList>

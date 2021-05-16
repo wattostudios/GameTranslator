@@ -1,0 +1,108 @@
+<settingsStore>
+	<program>Game Translator</program>
+	<settings>
+		<setting code="Popup_RemoveFiles_FilesAdded_Show" value="true" />
+		<setting code="Popup_ConvertArchive_FilenameMissing_Show" value="true" />
+		<setting code="WSTableColumn_A_Width" value="75" />
+		<setting code="WSTableColumn_H_Width" value="74" />
+		<setting code="Popup_AddFiles_FilesRemoved_Show" value="true" />
+		<setting code="Popup_Search_NoSearchValue_Show" value="true" />
+		<setting code="WSSmallColorChooserXML" value="settings/smallColorChooserDialog.wsd" />
+		<setting code="SidePanel_DirectoryList_CurrentControl" value="ReadPanel" />
+		<setting code="Popup_ReadArchive_FilenameMissing_Show" value="true" />
+		<setting code="ShowTableColumn_AddedIcon" value="true" />
+		<setting code="AboutFile" value="settings/about.wsd" />
+		<setting code="SortPluginLists" value="true" />
+		<setting code="SettingsFile-Defaults" value="C:\_WATTOz\Development\_Home\Game Translator\settings\defaults\settings.wsd" />
+		<setting code="ShowCustomColumns" value="true" />
+		<setting code="WSMonthCalendarXML" value="settings/monthCalendarDialog.wsd" />
+		<setting code="WSTableColumn_O_Width" value="449" />
+		<setting code="WSFontChooser_FontName_Selected" value="Arial" />
+		<setting code="ToolbarButtonListFile" value="settings/toolbarButtonList.wsd" />
+		<setting code="CurrentArchive" value="C:\_WATTOz\_languages to fix\Spaceforce\mail_database.txt" />
+		<setting code="WSTableColumn__Width" value="85" />
+		<setting code="ExtendedSettingsDebug" value="false" />
+		<setting code="DefaultInterfaceColors" value="-12814286" />
+		<setting code="ShowSplashScreen" value="false" />
+		<setting code="WSTableColumn_F_Width" value="64" />
+		<setting code="Popup_RemoveFiles_FilesRemoved_Show" value="true" />
+		<setting code="WSTableColumn_c_Width" value="75" />
+		<setting code="PluginPathsFile" value="settings/plugins.wsd" />
+		<setting code="MaxNumberOfFiles4" value="100000" />
+		<setting code="PluginListDisplayType" value="Game" />
+		<setting code="MaxNumberOfFiles2" value="40000" />
+		<setting code="SettingsFile" value="C:\_WATTOz\Development\_Home\Game Translator\settings\settings.wsd" />
+		<setting code="ShowTableColumn_Original" value="true" />
+		<setting code="WSTableColumn_D_Width" value="75" />
+		<setting code="WSTableColumn_a_Width" value="18" />
+		<setting code="CurrentFileList" value="Table" />
+		<setting code="Popup_WriteArchive_FilenameMissing_Show" value="true" />
+		<setting code="WSProgramClosesSplashScreen" value="true" />
+		<setting code="WSTableColumn_B_Width" value="67" />
+		<setting code="NumberOfUndoTasks" value="4" />
+		<setting code="SelectedOptionGroup" value="0" />
+		<setting code="ShowTableColumn_ID" value="true" />
+		<setting code="DefaultSettingsFile" value="settings/defaults/Settings.wsd" />
+		<setting code="WSTableColumn_T_Width" value="447" />
+		<setting code="LanguageDirectory" value="language" />
+		<setting code="CurrentSidePanel" value="SidePanel_About" />
+		<setting code="Popup_ReadArchive_NoPluginsFound_Show" value="true" />
+		<setting code="WSFontChooserXML" value="settings/fontChooserDialog.wsd" />
+		<setting code="Popup_FullVersionOnly_Show" value="true" />
+		<setting code="ShowSystemSpecificIcons" value="true" />
+		<setting code="DebugMode" value="true" />
+		<setting code="Popup_ReadArchive_MakeNewArchive_Show" value="false" />
+		<setting code="DirectoryListDoubleClickDoesOpenArchive" value="true" />
+		<setting code="WSTableColumn_I_Width" value="113" />
+		<setting code="MaxFilenameLength" value="255" />
+		<setting code="WSFontChooser_FontStyle_Selected" value="Plain" />
+		<setting code="Popup_RemoveFiles_NoFilesToRemove_Show" value="true" />
+		<setting code="ExtendedLanguageDebug" value="false" />
+		<setting code="TempDirectory" value="temp" />
+		<setting code="Popup_SelectResources_None_Show" value="true" />
+		<setting code="Popup_ReadArchive_ArchiveOpened_Show" value="false" />
+		<setting code="InterfaceColors" value="-12814286" />
+		<setting code="Popup_Search_NoColumnsSelected_Show" value="true" />
+		<setting code="DividerLocation" value="0.7" />
+		<setting code="WSTableColumn_G_Width" value="81" />
+		<setting code="Popup_SelectResources_All_Show" value="true" />
+		<setting code="NumberOfRecentFiles" value="4" />
+		<setting code="WSTableColumn_Y_Width" value="71" />
+		<setting code="AutoResizeTableColumns" value="true" />
+		<setting code="WSTableColumn_P_Width" value="74" />
+		<setting code="Popup_AddFiles_FilesAdded_Show" value="true" />
+		<setting code="Popup_SidePanelChanged_Show" value="false" />
+		<setting code="Popup_ReadArchive_ReadWithPluginFailed_Show" value="true" />
+		<setting code="WSGradientColorChooserXML" value="settings/gradientColorChooserDialog.wsd" />
+		<setting code="ShowTableColumn_Translated" value="true" />
+		<setting code="DirectoryListView" value="List" />
+		<setting code="AddTextChangesIntoUndo" value="true" />
+		<setting code="Popup_WriteArchive_ArchiveSaved_Show" value="true" />
+		<setting code="WSFontChooser_FontSize_Selected" value="12" />
+		<setting code="WSTableColumn__Width" value="70" />
+		<setting code="CurrentDirectory" value="C:\_WATTOz\Development\_Home\Game Translator" />
+		<setting code="WSTableColumn_C_Width" value="68" />
+		<setting code="InterfaceFile" value="settings/interface.wsd" />
+		<setting code="CurrentLanguage" value="English" />
+		<setting code="Popup_AddFiles_NegativeNumberOfFiles_Show" value="true" />
+		<setting code="LargeButtonIcons" value="false" />
+		<setting code="WSTableColumn_t_Width" value="67" />
+		<setting code="DefaultInterfaceFile" value="settings/defaults/interface.wsd" />
+		<setting code="Popup_Search_MatchFound_Show" value="true" />
+		<setting code="RecentFile4" value="C:\_WATTOz\_languages to fix\Puzzle Quest\Credits.xml" />
+		<setting code="RecentFile3" value="C:\_WATTOz\_languages to fix\Puzzle Quest\PlatformText.xml" />
+		<setting code="RecentFile2" value="C:\_WATTOz\_languages to fix\Space Strike\local.txt" />
+		<setting code="Popup_Options_OptionsSaved_Show" value="true" />
+		<setting code="RecentFile1" value="C:\_WATTOz\_languages to fix\Spaceforce\mail_database.txt" />
+		<setting code="Popup_ReadArchive_FileNotAnArchive_Show" value="true" />
+		<setting code="ShowLanguagePackOutdatedError" value="false" />
+		<setting code="Popup_Search_NoMatchFound_Show" value="true" />
+		<setting code="ShowTableColumn_Attribute" value="true" />
+		<setting code="Popup_SelectResources_Inverse_Show" value="true" />
+		<setting code="OpenArchiveOnDoubleClick" value="true" />
+		<setting code="WSTableColumn_r_Width" value="18" />
+		<setting code="ShowTableColumn_RenamedIcon" value="true" />
+		<setting code="" value="" />
+	</settings>
+</settingsStore>
+
